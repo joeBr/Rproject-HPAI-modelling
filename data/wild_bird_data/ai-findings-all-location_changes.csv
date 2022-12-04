@@ -1,0 +1,1038 @@
+,Location (county),Total number of birds testing positive,week,year,date,season,location_2,Match
+484,Aberdeen,2,5,2022,31/01/2022,2021/2022,Aberdeenshire,FALSE
+522,Aberdeen,1,7,2022,14/02/2022,2021/2022,Aberdeenshire,FALSE
+544,Aberdeen,1,9,2022,28/02/2022,2021/2022,Aberdeenshire,FALSE
+561,Aberdeen,1,10,2022,07/03/2022,2021/2022,Aberdeenshire,FALSE
+589,Aberdeen,1,12,2022,21/03/2022,2021/2022,Aberdeenshire,FALSE
+633,Aberdeen,1,15,2022,11/04/2022,2021/2022,Aberdeenshire,FALSE
+692,Aberdeen,9,24,2022,13/06/2022,2021/2022,Aberdeenshire,FALSE
+711,Aberdeen,3,25,2022,20/06/2022,2021/2022,Aberdeenshire,FALSE
+99,Aberdeen,3,50,2020,14/12/2020,2020/2021,Aberdeenshire,FALSE
+176,Aberdeenshire,2,3,2021,18/01/2021,2020/2021,Aberdeenshire,TRUE
+275,Aberdeenshire,1,47,2021,22/11/2021,2021/2022,Aberdeenshire,TRUE
+368,Aberdeenshire,1,51,2021,20/12/2021,2021/2022,Aberdeenshire,TRUE
+386,Aberdeenshire,2,52,2021,27/12/2021,2021/2022,Aberdeenshire,TRUE
+418,Aberdeenshire,1,2,2022,10/01/2022,2021/2022,Aberdeenshire,TRUE
+453,Aberdeenshire,2,4,2022,24/01/2022,2021/2022,Aberdeenshire,TRUE
+492,Aberdeenshire,8,6,2022,07/02/2022,2021/2022,Aberdeenshire,TRUE
+521,Aberdeenshire,11,7,2022,14/02/2022,2021/2022,Aberdeenshire,TRUE
+525,Aberdeenshire,3,8,2022,21/02/2022,2021/2022,Aberdeenshire,TRUE
+545,Aberdeenshire,3,9,2022,28/02/2022,2021/2022,Aberdeenshire,TRUE
+562,Aberdeenshire,8,10,2022,07/03/2022,2021/2022,Aberdeenshire,TRUE
+575,Aberdeenshire,4,11,2022,14/03/2022,2021/2022,Aberdeenshire,TRUE
+590,Aberdeenshire,13,12,2022,21/03/2022,2021/2022,Aberdeenshire,TRUE
+600,Aberdeenshire,5,13,2022,28/03/2022,2021/2022,Aberdeenshire,TRUE
+614,Aberdeenshire,4,14,2022,04/04/2022,2021/2022,Aberdeenshire,TRUE
+634,Aberdeenshire,2,15,2022,11/04/2022,2021/2022,Aberdeenshire,TRUE
+643,Aberdeenshire,4,16,2022,18/04/2022,2021/2022,Aberdeenshire,TRUE
+649,Aberdeenshire,7,17,2022,25/04/2022,2021/2022,Aberdeenshire,TRUE
+663,Aberdeenshire,1,18,2022,02/05/2022,2021/2022,Aberdeenshire,TRUE
+680,Aberdeenshire,5,21,2022,23/05/2022,2021/2022,Aberdeenshire,TRUE
+685,Aberdeenshire,6,23,2022,06/06/2022,2021/2022,Aberdeenshire,TRUE
+693,Aberdeenshire,9,24,2022,13/06/2022,2021/2022,Aberdeenshire,TRUE
+712,Aberdeenshire,7,25,2022,20/06/2022,2021/2022,Aberdeenshire,TRUE
+740,Aberdeenshire,3,27,2022,04/07/2022,2021/2022,Aberdeenshire,TRUE
+761,Aberdeenshire,1,29,2022,18/07/2022,2021/2022,Aberdeenshire,TRUE
+781,Aberdeenshire,3,31,2022,01/08/2022,2021/2022,Aberdeenshire,TRUE
+795,Aberdeenshire,2,33,2022,15/08/2022,2021/2022,Aberdeenshire,TRUE
+1008,Aberdeenshire ,1,47,2022,21/11/2022,2022/2023,Aberdeenshire,TRUE
+163,Angus,1,52,2020,28/12/2020,2020/2021,Angus,TRUE
+263,Angus,2,47,2021,22/11/2021,2021/2022,Angus,TRUE
+336,Angus,1,49,2021,06/12/2021,2021/2022,Angus,TRUE
+454,Angus,2,4,2022,24/01/2022,2021/2022,Angus,TRUE
+493,Angus,1,6,2022,07/02/2022,2021/2022,Angus,TRUE
+563,Angus,3,10,2022,07/03/2022,2021/2022,Angus,TRUE
+694,Angus,8,24,2022,13/06/2022,2021/2022,Angus,TRUE
+714,Angus,6,25,2022,20/06/2022,2021/2022,Angus,TRUE
+741,Angus,8,27,2022,04/07/2022,2021/2022,Angus,TRUE
+752,Angus,4,28,2022,11/07/2022,2021/2022,Angus,TRUE
+782,Angus,3,31,2022,01/08/2022,2021/2022,Angus,TRUE
+526,Argyll and Bute,1,8,2022,21/02/2022,2021/2022,Argyll and Bute,TRUE
+576,Argyll and Bute,2,11,2022,14/03/2022,2021/2022,Argyll and Bute,TRUE
+753,Argyll and Bute,2,28,2022,11/07/2022,2021/2022,Argyll and Bute,TRUE
+762,Argyll and Bute,3,29,2022,18/07/2022,2021/2022,Argyll and Bute,TRUE
+783,Argyll and Bute,1,31,2022,01/08/2022,2021/2022,Argyll and Bute,TRUE
+796,Argyll and Bute,1,33,2022,15/08/2022,2021/2022,Argyll and Bute,TRUE
+1009,Argyll and Bute,3,47,2022,21/11/2022,2022/2023,Argyll and Bute,TRUE
+592,Barnsley Metropolitan Borough,1,12,2022,21/03/2022,2021/2022,Barnsley,TRUE
+845,Bedford Borough,5,39,2022,26/09/2022,2021/2022,Bedford,TRUE
+409,Birmingham City Council,1,1,2022,03/01/2022,2021/2022,Birmingham,TRUE
+419,Birmingham City Council,4,2,2022,10/01/2022,2021/2022,Birmingham,TRUE
+455,Birmingham City Council,2,4,2022,24/01/2022,2021/2022,Birmingham,TRUE
+489,Birmingham City Council,11,5,2022,31/01/2022,2021/2022,Birmingham,TRUE
+495,Birmingham City Council,5,6,2022,07/02/2022,2021/2022,Birmingham,TRUE
+615,Birmingham City Council,2,14,2022,04/04/2022,2021/2022,Birmingham,TRUE
+941,Birmingham City,1,44,2022,31/10/2022,2022/2023,Birmingham,TRUE
+966,Birmingham City,5,45,2022,07/11/2022,2022/2023,Birmingham,TRUE
+967,Blackburn with Darwen,2,45,2022,07/11/2022,2022/2023,Blackburn with Darwen,TRUE
+233,Blackpool Borough Council,2,46,2021,15/11/2021,2021/2022,Blackpool,TRUE
+279,Blackpool Borough Council,2,47,2021,22/11/2021,2021/2022,Blackpool,TRUE
+811,Blackpool Borough Council,1,35,2022,29/08/2022,2021/2022,Blackpool,TRUE
+90,Gwent,3,49,2020,07/12/2020,2020/2021,Blaenau Gwent,FALSE
+837,"Bournemouth, Christchurch and Poole Council",1,38,2022,19/09/2022,2021/2022,"Bournemouth, Christchurch and Poole",TRUE
+1010,"Bournemouth, Christchurch and Poole",2,47,2022,21/11/2022,2022/2023,"Bournemouth, Christchurch and Poole",TRUE
+400,City of Bradford Metropolitan District,1,1,2022,03/01/2022,2021/2022,Bradford,FALSE
+635,City of Bradford Metropolitan District,1,15,2022,11/04/2022,2021/2022,Bradford,FALSE
+696,Brighton and Hove City Council,3,24,2022,13/06/2022,2021/2022,Brighton and Hove,TRUE
+727,Brighton and Hove City Council,4,26,2022,27/06/2022,2021/2022,Brighton and Hove,TRUE
+763,Bristol,1,29,2022,18/07/2022,2021/2022,"Bristol, City of",FALSE
+207,Bury,1,45,2021,08/11/2021,2021/2022,Bury,TRUE
+229,Bury Metropolitan Borough Council,1,46,2021,15/11/2021,2021/2022,Bury,TRUE
+240,Bury Metropolitan Borough Council,1,46,2021,15/11/2021,2021/2022,Bury,TRUE
+248,Bury Metropolitan Borough Council,2,47,2021,22/11/2021,2021/2022,Bury,TRUE
+316,Bury,1,48,2021,29/11/2021,2021/2022,Bury,TRUE
+56,Cambridgeshire,1,47,2020,23/11/2020,2020/2021,Cambridgeshire,TRUE
+62,Cambridgeshire,1,48,2020,30/11/2020,2020/2021,Cambridgeshire,TRUE
+63,Cambridgeshire,1,48,2020,30/11/2020,2020/2021,Cambridgeshire,TRUE
+82,Cambridgeshire,1,48,2020,30/11/2020,2020/2021,Cambridgeshire,TRUE
+104,Cambridgeshire,3,50,2020,14/12/2020,2020/2021,Cambridgeshire,TRUE
+105,Cambridgeshire,1,50,2020,14/12/2020,2020/2021,Cambridgeshire,TRUE
+106,Cambridgeshire,1,50,2020,14/12/2020,2020/2021,Cambridgeshire,TRUE
+124,Cambridgeshire,2,51,2020,21/12/2020,2020/2021,Cambridgeshire,TRUE
+125,Cambridgeshire,1,51,2020,21/12/2020,2020/2021,Cambridgeshire,TRUE
+126,Cambridgeshire,1,51,2020,21/12/2020,2020/2021,Cambridgeshire,TRUE
+127,Cambridgeshire,1,51,2020,21/12/2020,2020/2021,Cambridgeshire,TRUE
+141,Cambridgeshire,1,52,2020,28/12/2020,2020/2021,Cambridgeshire,TRUE
+142,Cambridgeshire,1,52,2020,28/12/2020,2020/2021,Cambridgeshire,TRUE
+143,Cambridgeshire,1,52,2020,28/12/2020,2020/2021,Cambridgeshire,TRUE
+144,Cambridgeshire,1,52,2020,28/12/2020,2020/2021,Cambridgeshire,TRUE
+146,Cambridgeshire,2,52,2020,28/12/2020,2020/2021,Cambridgeshire,TRUE
+156,Cambridgeshire,1,52,2020,28/12/2020,2020/2021,Cambridgeshire,TRUE
+181,Cambridgeshire,1,5,2021,01/02/2021,2020/2021,Cambridgeshire,TRUE
+283,South Cambridgeshire District Council,1,48,2021,29/11/2021,2021/2022,Cambridgeshire,TRUE
+665,East Cambridgeshire,1,18,2022,02/05/2022,2021/2022,Cambridgeshire,TRUE
+972,East Cambridgeshire,1,45,2022,07/11/2022,2022/2023,Cambridgeshire,TRUE
+996,Fenland,1,46,2022,14/11/2022,2022/2023,Cambridgeshire,FALSE
+395,Huntingdonshire District,1,1,2022,03/01/2022,2021/2022,Cambridgeshire,FALSE
+774,Huntingdonshire District,2,30,2022,25/07/2022,2021/2022,Cambridgeshire,FALSE
+792,Huntingdonshire District,4,32,2022,08/08/2022,2021/2022,Cambridgeshire,FALSE
+549,City of Cardiff,1,9,2022,28/02/2022,2021/2022,Cardiff,FALSE
+564,City of Cardiff,1,10,2022,07/03/2022,2021/2022,Cardiff,FALSE
+604,City of Cardiff,1,13,2022,28/03/2022,2021/2022,Cardiff,FALSE
+0,Carmarthenshire,1,51,2016,19/12/2016,2016/2017,Carmarthenshire,TRUE
+96,Carmarthenshire,1,49,2020,07/12/2020,2020/2021,Carmarthenshire,TRUE
+203,"(Carmarthenshire, Wales)",1,44,2021,01/11/2021,2021/2022,Carmarthenshire,FALSE
+496,Carmarthenshire,1,6,2022,07/02/2022,2021/2022,Carmarthenshire,TRUE
+717,Carmarthenshire,1,25,2022,20/06/2022,2021/2022,Carmarthenshire,TRUE
+818,Carmarthenshire,1,36,2022,05/09/2022,2021/2022,Carmarthenshire,TRUE
+847,Carmarthenshire,1,39,2022,26/09/2022,2021/2022,Carmarthenshire,TRUE
+859,Carmarthenshire,1,40,2022,03/10/2022,2022/2023,Carmarthenshire,TRUE
+900,Carmarthenshire,2,42,2022,17/10/2022,2022/2023,Carmarthenshire,TRUE
+942,Carmarthenshire,3,44,2022,31/10/2022,2022/2023,Carmarthenshire,TRUE
+969,Carmarthenshire,1,45,2022,07/11/2022,2022/2023,Carmarthenshire,TRUE
+118,Bedfordshire,1,50,2020,14/12/2020,2020/2021,Central Bedfordshire,FALSE
+164,Bedfordshire,1,52,2020,28/12/2020,2020/2021,Central Bedfordshire,FALSE
+991,Central Bedfordshire,5,46,2022,14/11/2022,2022/2023,Central Bedfordshire,TRUE
+208,Ceredigion,2,45,2021,08/11/2021,2021/2022,Ceredigion,TRUE
+546,Ceredigion,2,9,2022,28/02/2022,2021/2022,Ceredigion,TRUE
+718,Ceredigion,2,25,2022,20/06/2022,2021/2022,Ceredigion,TRUE
+812,Ceredigion County Council,2,35,2022,29/08/2022,2021/2022,Ceredigion,FALSE
+277,Cheshire East,7,47,2021,22/11/2021,2021/2022,Cheshire East,TRUE
+332,Cheshire East,1,49,2021,06/12/2021,2021/2022,Cheshire East,TRUE
+377,Cheshire East,2,51,2021,20/12/2021,2021/2022,Cheshire East,TRUE
+411,Cheshire East,2,1,2022,03/01/2022,2021/2022,Cheshire East,TRUE
+422,Cheshire East,2,2,2022,10/01/2022,2021/2022,Cheshire East,TRUE
+497,Cheshire East,2,6,2022,07/02/2022,2021/2022,Cheshire East,TRUE
+547,Cheshire East,1,9,2022,28/02/2022,2021/2022,Cheshire East,TRUE
+602,Cheshire East,5,13,2022,28/03/2022,2021/2022,Cheshire East,TRUE
+825,Cheshire East,6,37,2022,12/09/2022,2021/2022,Cheshire East,TRUE
+838,Cheshire East,4,38,2022,19/09/2022,2021/2022,Cheshire East,TRUE
+848,Cheshire East,4,39,2022,26/09/2022,2021/2022,Cheshire East,TRUE
+860,Cheshire East,2,40,2022,03/10/2022,2022/2023,Cheshire East,TRUE
+875,Cheshire East,1,41,2022,10/10/2022,2022/2023,Cheshire East,TRUE
+921,Cheshire East,1,43,2022,24/10/2022,2022/2023,Cheshire East,TRUE
+943,Cheshire East,2,44,2022,31/10/2022,2022/2023,Cheshire East,TRUE
+412,Cheshire West and Chester,2,1,2022,03/01/2022,2021/2022,Cheshire West and Chester,TRUE
+423,Cheshire West and Chester,5,2,2022,10/01/2022,2021/2022,Cheshire West and Chester,TRUE
+498,Cheshire West and Chester,3,6,2022,07/02/2022,2021/2022,Cheshire West and Chester,TRUE
+548,Cheshire West and Chester,1,9,2022,28/02/2022,2021/2022,Cheshire West and Chester,TRUE
+577,Cheshire West and Chester,2,11,2022,14/03/2022,2021/2022,Cheshire West and Chester,TRUE
+603,Cheshire West and Chester,1,13,2022,28/03/2022,2021/2022,Cheshire West and Chester,TRUE
+922,Cheshire West and Chester,4,43,2022,24/10/2022,2022/2023,Cheshire West and Chester,TRUE
+944,Cheshire West and Chester,2,44,2022,31/10/2022,2022/2023,Cheshire West and Chester,TRUE
+192,"(Edinburgh, Scotland)",1,43,2021,25/10/2021,2021/2022,City of Edinburgh,FALSE
+424,City of Edinburgh,2,2,2022,10/01/2022,2021/2022,City of Edinburgh,FALSE
+500,City of Edinburgh,1,6,2022,07/02/2022,2021/2022,City of Edinburgh,FALSE
+529,City of Edinburgh,1,8,2022,21/02/2022,2021/2022,City of Edinburgh,FALSE
+565,City of Edinburgh,1,10,2022,07/03/2022,2021/2022,City of Edinburgh,FALSE
+605,City of Edinburgh,1,13,2022,28/03/2022,2021/2022,City of Edinburgh,FALSE
+697,City of Edinburgh,2,24,2022,13/06/2022,2021/2022,City of Edinburgh,FALSE
+159,Clackmannanshire,1,52,2020,28/12/2020,2020/2021,Clackmannanshire,TRUE
+160,Clackmannanshire,2,52,2020,28/12/2020,2020/2021,Clackmannanshire,TRUE
+166,Clackmannanshire,1,53,2020,04/01/2021,2020/2021,Clackmannanshire,TRUE
+518,Clackmannanshire,1,7,2022,14/02/2022,2021/2022,Clackmannanshire,TRUE
+636,Clackmannanshire,1,15,2022,11/04/2022,2021/2022,Clackmannanshire,TRUE
+651,Clackmannanshire,1,17,2022,25/04/2022,2021/2022,Clackmannanshire,TRUE
+9,Conwy,1,1,2017,02/01/2017,2016/2017,Conwy,TRUE
+10,Wales,1,2,2017,09/01/2017,2016/2017,Conwy,FALSE
+671,Conwy,1,19,2022,09/05/2022,2021/2022,Conwy,TRUE
+66,Cornwall,1,48,2020,30/11/2020,2020/2021,Cornwall,TRUE
+167,Cornwall,1,53,2020,04/01/2021,2020/2021,Cornwall,TRUE
+179,Cornwall,2,4,2021,25/01/2021,2020/2021,Cornwall,TRUE
+456,Cornwall,5,4,2022,24/01/2022,2021/2022,Cornwall,TRUE
+755,Cornwall,1,28,2022,11/07/2022,2021/2022,Cornwall,TRUE
+797,Cornwall,2,33,2022,15/08/2022,2021/2022,Cornwall,TRUE
+804,Cornwall,3,34,2022,22/08/2022,2021/2022,Cornwall,TRUE
+813,Cornwall Council,14,35,2022,29/08/2022,2021/2022,Cornwall,TRUE
+819,Cornwall Council,9,36,2022,05/09/2022,2021/2022,Cornwall,TRUE
+826,Cornwall Council,11,37,2022,12/09/2022,2021/2022,Cornwall,TRUE
+839,Cornwall Council,5,38,2022,19/09/2022,2021/2022,Cornwall,TRUE
+849,Cornwall Council,1,39,2022,26/09/2022,2021/2022,Cornwall,TRUE
+861,Cornwall,5,40,2022,03/10/2022,2022/2023,Cornwall,TRUE
+877,Cornwall,2,41,2022,10/10/2022,2022/2023,Cornwall,TRUE
+903,Cornwall,1,42,2022,17/10/2022,2022/2023,Cornwall,TRUE
+132,County Durham,3,51,2020,21/12/2020,2020/2021,County Durham,TRUE
+133,County Durham,2,51,2020,21/12/2020,2020/2021,County Durham,TRUE
+148,County Durham,1,52,2020,28/12/2020,2020/2021,County Durham,TRUE
+170,County Durham,1,1,2021,04/01/2021,2020/2021,County Durham,TRUE
+370,County Durham,1,51,2021,20/12/2021,2021/2022,County Durham,TRUE
+328,Durham,3,49,2021,06/12/2021,2021/2022,County Durham,FALSE
+401,Durham,3,1,2022,03/01/2022,2021/2022,County Durham,FALSE
+444,Durham,3,3,2022,17/01/2022,2021/2022,County Durham,FALSE
+487,Durham,2,5,2022,31/01/2022,2021/2022,County Durham,FALSE
+766,Durham,1,29,2022,18/07/2022,2021/2022,County Durham,FALSE
+784,Durham,1,31,2022,01/08/2022,2021/2022,County Durham,FALSE
+815,Durham,1,35,2022,29/08/2022,2021/2022,County Durham,FALSE
+258,Sedgefield,2,47,2021,22/11/2021,2021/2022,County Durham,FALSE
+425,Coventry City,2,2,2022,10/01/2022,2021/2022,Coventry,TRUE
+904,Coventry City,1,42,2022,17/10/2022,2022/2023,Coventry,TRUE
+946,Coventry City,3,44,2022,31/10/2022,2022/2023,Coventry,TRUE
+301,Allerdale Borough Council,1,48,2021,29/11/2021,2021/2022,Cumbria,FALSE
+320,Allerdale Borough Council,3,49,2021,06/12/2021,2021/2022,Cumbria,FALSE
+345,Allerdale Borough Council,2,50,2021,13/12/2021,2021/2022,Cumbria,FALSE
+300,Carlisle City Council,2,48,2021,29/11/2021,2021/2022,Cumbria,FALSE
+373,Carlisle City Council,1,51,2021,20/12/2021,2021/2022,Cumbria,FALSE
+399,Carlisle City Council,1,1,2022,03/01/2022,2021/2022,Cumbria,FALSE
+420,Carlisle City Council,3,2,2022,10/01/2022,2021/2022,Cumbria,FALSE
+472,Carlisle City Council,1,5,2022,31/01/2022,2021/2022,Cumbria,FALSE
+528,Carlisle City Council,2,8,2022,21/02/2022,2021/2022,Cumbria,FALSE
+719,Copeland Borough,1,25,2022,20/06/2022,2021/2022,Cumbria,FALSE
+88,Cumbria,6,48,2020,30/11/2020,2020/2021,Cumbria,TRUE
+155,Cumbria,2,52,2020,28/12/2020,2020/2021,Cumbria,TRUE
+209,City of Carlisle,1,45,2021,08/11/2021,2021/2022,Cumbria,FALSE
+331,Eden,1,49,2021,06/12/2021,2021/2022,Cumbria,FALSE
+442,Eden,1,3,2022,17/01/2022,2021/2022,Cumbria,FALSE
+288,City of Carlisle,1,48,2021,29/11/2021,2021/2022,Cumbria,FALSE
+226,South Lakeland District Council,2,46,2021,15/11/2021,2021/2022,Cumbria,FALSE
+269,South Lakeland District Council,4,47,2021,22/11/2021,2021/2022,Cumbria,FALSE
+346,South Lakeland District Council,2,50,2021,13/12/2021,2021/2022,Cumbria,FALSE
+437,South Lakeland District Council,1,2,2022,10/01/2022,2021/2022,Cumbria,FALSE
+507,South Lakeland District Council,1,6,2022,07/02/2022,2021/2022,Cumbria,FALSE
+911,South Lakeland,3,42,2022,17/10/2022,2022/2023,Cumbria,FALSE
+993,Darlington,2,46,2022,14/11/2022,2022/2023,Darlington,TRUE
+457,Denbighshire,1,4,2022,24/01/2022,2021/2022,Denbighshire,TRUE
+947,Derby City,1,44,2022,31/10/2022,2022/2023,Derby,TRUE
+650,Amber Valley,1,17,2022,25/04/2022,2021/2022,Derbyshire,FALSE
+664,Amber Valley,2,18,2022,02/05/2022,2021/2022,Derbyshire,FALSE
+939,Amber Valley,1,44,2022,31/10/2022,2022/2023,Derbyshire,FALSE
+965,Amber Valley,2,45,2022,07/11/2022,2022/2023,Derbyshire,FALSE
+578,Erewash Borough,1,11,2022,14/03/2022,2021/2022,Derbyshire,FALSE
+480,South Derbyshire District,2,5,2022,31/01/2022,2021/2022,Derbyshire,FALSE
+8,Devon,1,1,2017,02/01/2017,2016/2017,Devon,TRUE
+40,Devon,1,9,2018,26/02/2018,2017/2018,Devon,TRUE
+49,Devon,5,46,2020,16/11/2020,2020/2021,Devon,TRUE
+59,Devon ,2,47,2020,23/11/2020,2020/2021,Devon,TRUE
+65,Devon,1,48,2020,30/11/2020,2020/2021,Devon,TRUE
+67,Devon,1,48,2020,30/11/2020,2020/2021,Devon,TRUE
+68,Devon,1,48,2020,30/11/2020,2020/2021,Devon,TRUE
+85,Devon,1,48,2020,30/11/2020,2020/2021,Devon,TRUE
+129,Devon,1,51,2020,21/12/2020,2020/2021,Devon,TRUE
+173,Devon,3,2,2021,11/01/2021,2020/2021,Devon,TRUE
+178,Devon,3,4,2021,25/01/2021,2020/2021,Devon,TRUE
+814,Devon County Council,1,35,2022,29/08/2022,2021/2022,Devon,FALSE
+579,Exeter City Council,1,11,2022,14/03/2022,2021/2022,Devon,FALSE
+607,Exeter City Council,9,13,2022,28/03/2022,2021/2022,Devon,FALSE
+618,Exeter City Council,1,14,2022,04/04/2022,2021/2022,Devon,FALSE
+639,Mid Devon,2,15,2022,11/04/2022,2021/2022,Devon,FALSE
+654,Mid Devon,7,17,2022,25/04/2022,2021/2022,Devon,FALSE
+673,Mid Devon,4,19,2022,09/05/2022,2021/2022,Devon,FALSE
+724,Mid Devon,3,25,2022,20/06/2022,2021/2022,Devon,FALSE
+800,Mid Devon,1,33,2022,15/08/2022,2021/2022,Devon,FALSE
+822,South Hams District Council,2,36,2022,05/09/2022,2021/2022,Devon,FALSE
+834,South Hams District Council,1,37,2022,12/09/2022,2021/2022,Devon,FALSE
+1003,South Hams,1,46,2022,14/11/2022,2022/2023,Devon,FALSE
+329,Teignbridge,1,49,2021,06/12/2021,2021/2022,Devon,FALSE
+823,Teignbridge,4,36,2022,05/09/2022,2021/2022,Devon,FALSE
+468,Torridge District,2,4,2022,24/01/2022,2021/2022,Devon,FALSE
+1032,Torridge,1,47,2022,21/11/2022,2022/2023,Devon,FALSE
+438,Doncaster Metropolitan Borough,1,3,2022,17/01/2022,2021/2022,Doncaster,TRUE
+486,Doncaster Metropolitan Borough,1,5,2022,31/01/2022,2021/2022,Doncaster,TRUE
+550,Doncaster Metropolitan Borough,1,9,2022,28/02/2022,2021/2022,Doncaster,TRUE
+745,Castle Point Borough,1,27,2022,04/07/2022,2021/2022,Dorset,FALSE
+764,Castle Point Borough,1,29,2022,18/07/2022,2021/2022,Dorset,FALSE
+7,Dorset,9,1,2017,02/01/2017,2016/2017,Dorset,TRUE
+11,Dorset,1,2,2017,09/01/2017,2016/2017,Dorset,TRUE
+16,Dorset,1,3,2017,16/01/2017,2016/2017,Dorset,TRUE
+26,Dorset,31,2,2018,08/01/2018,2017/2018,Dorset,TRUE
+54,Dorset,1,46,2020,16/11/2020,2020/2021,Dorset,TRUE
+57,Dorset,6,47,2020,23/11/2020,2020/2021,Dorset,TRUE
+58,Dorset,1,47,2020,23/11/2020,2020/2021,Dorset,TRUE
+60,Dorset,3,47,2020,23/11/2020,2020/2021,Dorset,TRUE
+64,Dorset,26,48,2020,30/11/2020,2020/2021,Dorset,TRUE
+69,Dorset,1,48,2020,30/11/2020,2020/2021,Dorset,TRUE
+75,Dorset,1,48,2020,30/11/2020,2020/2021,Dorset,TRUE
+76,Dorset,32,48,2020,30/11/2020,2020/2021,Dorset,TRUE
+84,Dorset,4,48,2020,30/11/2020,2020/2021,Dorset,TRUE
+101,Dorset,12,50,2020,14/12/2020,2020/2021,Dorset,TRUE
+102,Dorset,1,50,2020,14/12/2020,2020/2021,Dorset,TRUE
+119,Dorset,5,51,2020,21/12/2020,2020/2021,Dorset,TRUE
+120,Dorset,1,51,2020,21/12/2020,2020/2021,Dorset,TRUE
+121,Dorset,1,51,2020,21/12/2020,2020/2021,Dorset,TRUE
+157,Dorset,3,52,2020,28/12/2020,2020/2021,Dorset,TRUE
+265,Dorset,4,47,2021,22/11/2021,2021/2022,Dorset,TRUE
+312,Dorset,1,48,2021,29/11/2021,2021/2022,Dorset,TRUE
+313,Dorset,1,48,2021,29/11/2021,2021/2022,Dorset,TRUE
+342,Dorset,1,49,2021,06/12/2021,2021/2022,Dorset,TRUE
+349,Dorset,4,50,2021,13/12/2021,2021/2022,Dorset,TRUE
+365,Dorset,17,51,2021,20/12/2021,2021/2022,Dorset,TRUE
+458,Dorset,1,4,2022,24/01/2022,2021/2022,Dorset,TRUE
+473,Dorset,1,5,2022,31/01/2022,2021/2022,Dorset,TRUE
+729,Dorset,5,26,2022,27/06/2022,2021/2022,Dorset,TRUE
+747,Dorset,7,27,2022,04/07/2022,2021/2022,Dorset,TRUE
+765,Dorset,5,29,2022,18/07/2022,2021/2022,Dorset,TRUE
+773,Dorset,5,30,2022,25/07/2022,2021/2022,Dorset,TRUE
+850,Dorset,1,39,2022,26/09/2022,2021/2022,Dorset,TRUE
+971,Dorset,2,45,2022,07/11/2022,2022/2023,Dorset,TRUE
+994,Dorset,2,46,2022,14/11/2022,2022/2023,Dorset,TRUE
+1013,Dorset,1,47,2022,21/11/2022,2022/2023,Dorset,TRUE
+878,Dudley Metropolitan Borough,3,41,2022,10/10/2022,2022/2023,Dudley,TRUE
+1,Dumfries and Galloway,1,51,2016,19/12/2016,2016/2017,Dumfries and Galloway,TRUE
+220,Dumfries and Galloway,1,46,2021,15/11/2021,2021/2022,Dumfries and Galloway,TRUE
+227,Dumfries and Galloway,1,46,2021,15/11/2021,2021/2022,Dumfries and Galloway,TRUE
+243,Dumfries and Galloway,1,46,2021,15/11/2021,2021/2022,Dumfries and Galloway,TRUE
+280,Dumfries and Galloway,2,48,2021,29/11/2021,2021/2022,Dumfries and Galloway,TRUE
+293,Dumfries and Galloway,1,48,2021,29/11/2021,2021/2022,Dumfries and Galloway,TRUE
+318,Dumfries and Galloway,1,48,2021,29/11/2021,2021/2022,Dumfries and Galloway,TRUE
+321,Dumfries and Galloway,5,49,2021,06/12/2021,2021/2022,Dumfries and Galloway,TRUE
+351,Dumfries and Galloway,8,50,2021,13/12/2021,2021/2022,Dumfries and Galloway,TRUE
+367,Dumfries and Galloway,1,51,2021,20/12/2021,2021/2022,Dumfries and Galloway,TRUE
+374,Dumfries and Galloway,3,51,2021,20/12/2021,2021/2022,Dumfries and Galloway,TRUE
+383,Dumfries and Galloway,2,52,2021,27/12/2021,2021/2022,Dumfries and Galloway,TRUE
+417,Dumfries and Galloway,2,1,2022,03/01/2022,2021/2022,Dumfries and Galloway,TRUE
+426,Dumfries and Galloway,7,2,2022,10/01/2022,2021/2022,Dumfries and Galloway,TRUE
+450,Dumfries and Galloway,1,3,2022,17/01/2022,2021/2022,Dumfries and Galloway,TRUE
+459,Dumfries and Galloway,2,4,2022,24/01/2022,2021/2022,Dumfries and Galloway,TRUE
+483,Dumfries and Galloway,1,5,2022,31/01/2022,2021/2022,Dumfries and Galloway,TRUE
+501,Dumfries and Galloway,1,6,2022,07/02/2022,2021/2022,Dumfries and Galloway,TRUE
+566,Dumfries and Galloway,2,10,2022,07/03/2022,2021/2022,Dumfries and Galloway,TRUE
+720,Dumfries and Galloway,1,25,2022,20/06/2022,2021/2022,Dumfries and Galloway,TRUE
+249,Dumfriesshire,3,47,2021,22/11/2021,2021/2022,Dumfries and Galloway,FALSE
+259,Dumfriesshire,1,47,2021,22/11/2021,2021/2022,Dumfries and Galloway,FALSE
+260,Dumfriesshire,1,47,2021,22/11/2021,2021/2022,Dumfries and Galloway,FALSE
+261,Dumfriesshire,1,47,2021,22/11/2021,2021/2022,Dumfries and Galloway,FALSE
+281,Dumfriesshire,2,48,2021,29/11/2021,2021/2022,Dumfries and Galloway,FALSE
+289,Dumfriesshire,2,48,2021,29/11/2021,2021/2022,Dumfries and Galloway,FALSE
+292,Dumfriesshire,1,48,2021,29/11/2021,2021/2022,Dumfries and Galloway,FALSE
+294,Dumfriesshire,1,48,2021,29/11/2021,2021/2022,Dumfries and Galloway,FALSE
+361,Dumfriesshire,4,50,2021,13/12/2021,2021/2022,Dumfries and Galloway,FALSE
+382,Dumfriesshire,9,52,2021,27/12/2021,2021/2022,Dumfries and Galloway,FALSE
+530,East Dunbartonshire,1,8,2022,21/02/2022,2021/2022,East Dunbartonshire,TRUE
+551,East Dunbartonshire,1,9,2022,28/02/2022,2021/2022,East Dunbartonshire,TRUE
+567,East Dunbartonshire,1,10,2022,07/03/2022,2021/2022,East Dunbartonshire,TRUE
+606,East Dunbartonshire,1,13,2022,28/03/2022,2021/2022,East Dunbartonshire,TRUE
+637,East Dunbartonshire,1,15,2022,11/04/2022,2021/2022,East Dunbartonshire,TRUE
+644,East Dunbartonshire,1,16,2022,18/04/2022,2021/2022,East Dunbartonshire,TRUE
+180,East Lothian,2,4,2021,25/01/2021,2020/2021,East Lothian,TRUE
+699,East Lothian,9,24,2022,13/06/2022,2021/2022,East Lothian,TRUE
+29,West Yorkshire,1,4,2018,22/01/2018,2017/2018,East Riding of Yorkshire,FALSE
+94,Yorkshire,1,49,2020,07/12/2020,2020/2021,East Riding of Yorkshire,FALSE
+174,Yorkshire,1,2,2021,11/01/2021,2020/2021,East Riding of Yorkshire,FALSE
+210,East Riding of Yorkshire,2,45,2021,08/11/2021,2021/2022,East Riding of Yorkshire,TRUE
+340,East Riding of Yorkshire,1,49,2021,06/12/2021,2021/2022,East Riding of Yorkshire,TRUE
+364,East Riding of Yorkshire,1,51,2021,20/12/2021,2021/2022,East Riding of Yorkshire,TRUE
+397,East Riding of Yorkshire,1,1,2022,03/01/2022,2021/2022,East Riding of Yorkshire,TRUE
+460,East Riding of Yorkshire,1,4,2022,24/01/2022,2021/2022,East Riding of Yorkshire,TRUE
+471,East Riding of Yorkshire,1,5,2022,31/01/2022,2021/2022,East Riding of Yorkshire,TRUE
+502,East Riding of Yorkshire,1,6,2022,07/02/2022,2021/2022,East Riding of Yorkshire,TRUE
+666,East Riding of Yorkshire,1,18,2022,02/05/2022,2021/2022,East Riding of Yorkshire,TRUE
+798,East Riding of Yorkshire,2,33,2022,15/08/2022,2021/2022,East Riding of Yorkshire,TRUE
+828,East Riding of Yorkshire,1,37,2022,12/09/2022,2021/2022,East Riding of Yorkshire,TRUE
+948,East Riding of Yorkshire,10,44,2022,31/10/2022,2022/2023,East Riding of Yorkshire,TRUE
+973,East Riding of Yorkshire,1,45,2022,07/11/2022,2022/2023,East Riding of Yorkshire,TRUE
+995,East Riding of Yorkshire,6,46,2022,14/11/2022,2022/2023,East Riding of Yorkshire,TRUE
+1015,Hambleton,2,47,2022,21/11/2022,2022/2023,East Riding of Yorkshire,FALSE
+183,West Yorkshire,1,10,2021,08/03/2021,2020/2021,East Riding of Yorkshire,FALSE
+730,Eastbourne Borough Council,3,26,2022,27/06/2022,2021/2022,East Sussex,FALSE
+734,Hastings Borough Council,1,26,2022,27/06/2022,2021/2022,East Sussex,FALSE
+799,Hastings Borough Council,1,33,2022,15/08/2022,2021/2022,East Sussex,FALSE
+324,Lewes,1,49,2021,06/12/2021,2021/2022,East Sussex,FALSE
+736,Lewes,10,26,2022,27/06/2022,2021/2022,East Sussex,FALSE
+976,Lewes,4,45,2022,07/11/2022,2022/2023,East Sussex,FALSE
+270,Rother District Council,1,47,2021,22/11/2021,2021/2022,East Sussex,FALSE
+691,Rother District Council,1,23,2022,06/06/2022,2021/2022,East Sussex,FALSE
+707,Rother District Council,23,24,2022,13/06/2022,2021/2022,East Sussex,FALSE
+738,Rother District Council,12,26,2022,27/06/2022,2021/2022,East Sussex,FALSE
+743,Basildon Borough,4,27,2022,04/07/2022,2021/2022,Essex,FALSE
+744,Braintree District,1,27,2022,04/07/2022,2021/2022,Essex,FALSE
+898,Braintree,3,42,2022,17/10/2022,2022/2023,Essex,FALSE
+899,Brentwood,1,42,2022,17/10/2022,2022/2023,Essex,FALSE
+305,Chelmsford City Council,2,48,2021,29/11/2021,2021/2022,Essex,FALSE
+325,Chelmsford,1,49,2021,06/12/2021,2021/2022,Essex,FALSE
+1011,Chelmsford,1,47,2022,21/11/2022,2022/2023,Essex,FALSE
+876,Colchester,6,41,2022,10/10/2022,2022/2023,Essex,FALSE
+902,Colchester,1,42,2022,17/10/2022,2022/2023,Essex,FALSE
+1012,Dartford,1,47,2022,21/11/2022,2022/2023,Essex,FALSE
+55,Essex,1,47,2020,23/11/2020,2020/2021,Essex,TRUE
+81,Essex,1,48,2020,30/11/2020,2020/2021,Essex,TRUE
+103,Essex,1,50,2020,14/12/2020,2020/2021,Essex,TRUE
+110,Essex,1,50,2020,14/12/2020,2020/2021,Essex,TRUE
+114,Essex,1,50,2020,14/12/2020,2020/2021,Essex,TRUE
+977,Maldon,1,45,2022,07/11/2022,2022/2023,Essex,FALSE
+907,Rochford,1,42,2022,17/10/2022,2022/2023,Essex,FALSE
+936,Uttlesford,2,43,2022,24/10/2022,2022/2023,Essex,FALSE
+291,Falkirk,1,48,2021,29/11/2021,2021/2022,Falkirk,TRUE
+862,Falkirk,1,40,2022,03/10/2022,2022/2023,Falkirk,TRUE
+100,Fife,1,50,2020,14/12/2020,2020/2021,Fife,TRUE
+149,Fife,3,52,2020,28/12/2020,2020/2021,Fife,TRUE
+185,"Fife, Scotland",3,15,2021,12/04/2021,2020/2021,Fife,TRUE
+191,"(Kirkaldy, Fife, Scotland)",1,43,2021,25/10/2021,2021/2022,Fife,TRUE
+221,Fife,1,46,2021,15/11/2021,2021/2022,Fife,TRUE
+262,Fife,2,47,2021,22/11/2021,2021/2022,Fife,TRUE
+461,Fife,1,4,2022,24/01/2022,2021/2022,Fife,TRUE
+503,Fife,2,6,2022,07/02/2022,2021/2022,Fife,TRUE
+531,Fife,2,8,2022,21/02/2022,2021/2022,Fife,TRUE
+552,Fife,1,9,2022,28/02/2022,2021/2022,Fife,TRUE
+568,Fife,1,10,2022,07/03/2022,2021/2022,Fife,TRUE
+580,Fife,1,11,2022,14/03/2022,2021/2022,Fife,TRUE
+593,Fife,1,12,2022,21/03/2022,2021/2022,Fife,TRUE
+608,Fife,2,13,2022,28/03/2022,2021/2022,Fife,TRUE
+667,Fife,2,18,2022,02/05/2022,2021/2022,Fife,TRUE
+701,Fife,17,24,2022,13/06/2022,2021/2022,Fife,TRUE
+721,Fife,4,25,2022,20/06/2022,2021/2022,Fife,TRUE
+731,Fife,1,26,2022,27/06/2022,2021/2022,Fife,TRUE
+756,Fife,2,28,2022,11/07/2022,2021/2022,Fife,TRUE
+785,Fife,3,31,2022,01/08/2022,2021/2022,Fife,TRUE
+790,Fife,1,32,2022,08/08/2022,2021/2022,Fife,TRUE
+820,Fife,1,36,2022,05/09/2022,2021/2022,Fife,TRUE
+581,Flintshire,1,11,2022,14/03/2022,2021/2022,Flintshire,TRUE
+410,Mold,1,1,2022,03/01/2022,2021/2022,Flintshire,FALSE
+390,Glasgow City,1,52,2021,27/12/2021,2021/2022,Glasgow City,FALSE
+619,Glasgow City,1,14,2022,04/04/2022,2021/2022,Glasgow City,FALSE
+1014,Glasgow,3,47,2022,21/11/2022,2022/2023,Glasgow City,FALSE
+840,Cotswold District,1,38,2022,19/09/2022,2021/2022,Gloucestershire,FALSE
+532,Forest of Dean District,1,8,2022,21/02/2022,2021/2022,Gloucestershire,FALSE
+5,Gloucestershire,4,52,2016,26/12/2016,2016/2017,Gloucestershire,TRUE
+15,Gloucestershire,1,2,2017,09/01/2017,2016/2017,Gloucestershire,TRUE
+47,Gloucestershire,2,45,2020,09/11/2020,2020/2021,Gloucestershire,TRUE
+48,Gloucestershire,1,46,2020,16/11/2020,2020/2021,Gloucestershire,TRUE
+53,Gloucestershire,6,46,2020,16/11/2020,2020/2021,Gloucestershire,TRUE
+61,Gloucestershire,2,47,2020,23/11/2020,2020/2021,Gloucestershire,TRUE
+70,Gloucestershire,1,48,2020,30/11/2020,2020/2021,Gloucestershire,TRUE
+77,Gloucestershire,3,48,2020,30/11/2020,2020/2021,Gloucestershire,TRUE
+78,Gloucestershire,1,48,2020,30/11/2020,2020/2021,Gloucestershire,TRUE
+122,Gloucestershire,1,51,2020,21/12/2020,2020/2021,Gloucestershire,TRUE
+138,Gloucestershire,1,51,2020,21/12/2020,2020/2021,Gloucestershire,TRUE
+152,Gloucestershire,1,52,2020,28/12/2020,2020/2021,Gloucestershire,TRUE
+153,Gloucestershire,1,52,2020,28/12/2020,2020/2021,Gloucestershire,TRUE
+154,Gloucestershire,1,52,2020,28/12/2020,2020/2021,Gloucestershire,TRUE
+212,Tewkesbury Borough,1,45,2021,08/11/2021,2021/2022,Gloucestershire,FALSE
+242,Stroud District Council,1,46,2021,15/11/2021,2021/2022,Gloucestershire,FALSE
+251,Stroud District Council,2,47,2021,22/11/2021,2021/2022,Gloucestershire,FALSE
+295,Stroud,5,48,2021,29/11/2021,2021/2022,Gloucestershire,FALSE
+319,Stroud,4,48,2021,29/11/2021,2021/2022,Gloucestershire,FALSE
+343,Stroud,4,49,2021,06/12/2021,2021/2022,Gloucestershire,FALSE
+354,Stroud,2,50,2021,13/12/2021,2021/2022,Gloucestershire,FALSE
+393,Stroud,1,52,2021,27/12/2021,2021/2022,Gloucestershire,FALSE
+509,Stroud,1,6,2022,07/02/2022,2021/2022,Gloucestershire,FALSE
+524,Stroud,1,7,2022,14/02/2022,2021/2022,Gloucestershire,FALSE
+628,Stroud,1,14,2022,04/04/2022,2021/2022,Gloucestershire,FALSE
+835,Stroud,3,37,2022,12/09/2022,2021/2022,Gloucestershire,FALSE
+843,Stroud,4,38,2022,19/09/2022,2021/2022,Gloucestershire,FALSE
+855,Stroud,2,39,2022,26/09/2022,2021/2022,Gloucestershire,FALSE
+871,Stroud,4,40,2022,03/10/2022,2022/2023,Gloucestershire,FALSE
+891,Stroud,4,41,2022,10/10/2022,2022/2023,Gloucestershire,FALSE
+629,Tewkesbury Borough,1,14,2022,04/04/2022,2021/2022,Gloucestershire,FALSE
+317,Gwynedd Council,1,48,2021,29/11/2021,2021/2022,Gwynedd,TRUE
+829,Gwynedd Council,8,37,2022,12/09/2022,2021/2022,Gwynedd,TRUE
+334,Halton Borough,1,49,2021,06/12/2021,2021/2022,Halton,TRUE
+620,Halton Borough,1,14,2022,04/04/2022,2021/2022,Halton,TRUE
+43,Hampshire,1,9,2018,26/02/2018,2017/2018,Hampshire,TRUE
+116,Hampshire,3,50,2020,14/12/2020,2020/2021,Hampshire,TRUE
+830,New Forest,1,37,2022,12/09/2022,2021/2022,Hampshire,FALSE
+927,New Forest,1,43,2022,24/10/2022,2022/2023,Hampshire,FALSE
+955,New Forest,4,44,2022,31/10/2022,2022/2023,Hampshire,FALSE
+979,New Forest,2,45,2022,07/11/2022,2022/2023,Hampshire,FALSE
+404,Test Valley Borough,1,1,2022,03/01/2022,2021/2022,Hampshire,FALSE
+1020,London Borough of Haringey,4,47,2022,21/11/2022,2022/2023,Haringey,TRUE
+309,Hartlepool Borough Council,1,48,2021,29/11/2021,2021/2022,Hartlepool,TRUE
+702,Hartlepool Borough Council,4,24,2022,13/06/2022,2021/2022,Hartlepool,TRUE
+805,Hartlepool Borough Council,1,34,2022,22/08/2022,2021/2022,Hartlepool,TRUE
+841,Hartlepool Borough Council,1,38,2022,19/09/2022,2021/2022,Hartlepool,TRUE
+278,Herefordshire,1,47,2021,22/11/2021,2021/2022,"Herefordshire, County of",FALSE
+463,Herefordshire,2,4,2022,24/01/2022,2021/2022,"Herefordshire, County of",FALSE
+474,Herefordshire,1,5,2022,31/01/2022,2021/2022,"Herefordshire, County of",FALSE
+569,Herefordshire,3,10,2022,07/03/2022,2021/2022,"Herefordshire, County of",FALSE
+638,Herefordshire,1,15,2022,11/04/2022,2021/2022,"Herefordshire, County of",FALSE
+28,Hertfordshire,19,3,2018,15/01/2018,2017/2018,"Herefordshire, County of",TRUE
+34,Hertfordshire,1,5,2018,29/01/2018,2017/2018,"Herefordshire, County of",TRUE
+1017,Hertsmere,1,47,2022,21/11/2022,2022/2023,"Herefordshire, County of",FALSE
+533,High Peak Borough,1,8,2022,21/02/2022,2021/2022,Derbyshire,FALSE
+135,Highlands,1,51,2020,21/12/2020,2020/2021,Highland,FALSE
+264,Highland,1,47,2021,22/11/2021,2021/2022,Highland,TRUE
+362,Highland,1,50,2021,13/12/2021,2021/2022,Highland,TRUE
+452,Highland,2,3,2022,17/01/2022,2021/2022,Highland,TRUE
+523,Highland,1,7,2022,14/02/2022,2021/2022,Highland,TRUE
+534,Highland,3,8,2022,21/02/2022,2021/2022,Highland,TRUE
+609,Highland,6,13,2022,28/03/2022,2021/2022,Highland,TRUE
+621,Highland,18,14,2022,04/04/2022,2021/2022,Highland,TRUE
+645,Highland,2,16,2022,18/04/2022,2021/2022,Highland,TRUE
+653,Highland,1,17,2022,25/04/2022,2021/2022,Highland,TRUE
+672,Highland,7,19,2022,09/05/2022,2021/2022,Highland,TRUE
+686,Highland,1,23,2022,06/06/2022,2021/2022,Highland,TRUE
+703,Highland,4,24,2022,13/06/2022,2021/2022,Highland,TRUE
+722,Highland,2,25,2022,20/06/2022,2021/2022,Highland,TRUE
+735,Highland,1,26,2022,27/06/2022,2021/2022,Highland,TRUE
+748,Highland,20,27,2022,04/07/2022,2021/2022,Highland,TRUE
+757,Highland,2,28,2022,11/07/2022,2021/2022,Highland,TRUE
+767,Highland,1,29,2022,18/07/2022,2021/2022,Highland,TRUE
+786,Highland,2,31,2022,01/08/2022,2021/2022,Highland,TRUE
+806,Highland,1,34,2022,22/08/2022,2021/2022,Highland,TRUE
+842,Highland,3,38,2022,19/09/2022,2021/2022,Highland,TRUE
+863,Highland,1,40,2022,03/10/2022,2022/2023,Highland,TRUE
+949,Highland,1,44,2022,31/10/2022,2022/2023,Highland,TRUE
+1018,Highland,3,47,2022,21/11/2022,2022/2023,Highland,TRUE
+31,Greater London,2,4,2018,22/01/2018,2017/2018,Hillingdon,FALSE
+464,London Borough of Hillingdon,3,4,2022,24/01/2022,2021/2022,Hillingdon,FALSE
+582,Inverclyde,1,11,2022,14/03/2022,2021/2022,Inverclyde,TRUE
+314,Anglesey,1,48,2021,29/11/2021,2021/2022,Isle of Anglesey,FALSE
+713,Anglesey,1,25,2022,20/06/2022,2021/2022,Isle of Anglesey,FALSE
+918,Anglesey,6,43,2022,24/10/2022,2022/2023,Isle of Anglesey,FALSE
+130,Isle of Wight,1,51,2020,21/12/2020,2020/2021,Isle of Wight,TRUE
+554,Isle of Wight,1,9,2022,28/02/2022,2021/2022,Isle of Wight,TRUE
+816,Isles of Scilly,2,35,2022,29/08/2022,2021/2022,Isles of Scilly,TRUE
+512,Canterbury City Council,1,7,2022,14/02/2022,2021/2022,Kent,FALSE
+810,Canterbury District Council,1,34,2022,22/08/2022,2021/2022,Kent,FALSE
+698,Dover,4,24,2022,13/06/2022,2021/2022,Kent,FALSE
+446,East Devon,1,3,2022,17/01/2022,2021/2022,Kent,FALSE
+617,East Devon,3,14,2022,04/04/2022,2021/2022,Kent,FALSE
+652,East Devon,1,17,2022,25/04/2022,2021/2022,Kent,FALSE
+827,East Devon,2,37,2022,12/09/2022,2021/2022,Kent,FALSE
+732,Folkestone and Hythe District Council,2,26,2022,27/06/2022,2021/2022,Kent,FALSE
+73,Kent,1,48,2020,30/11/2020,2020/2021,Kent,TRUE
+867,Maidstone,2,40,2022,03/10/2022,2022/2023,Kent,FALSE
+926,Maidstone,1,43,2022,24/10/2022,2022/2023,Kent,FALSE
+935,Swale,1,43,2022,24/10/2022,2022/2023,Kent,FALSE
+950,Hull City,3,44,2022,31/10/2022,2022/2023,"Kingston upon Hull, City of",FALSE
+998,Hull City,4,46,2022,14/11/2022,2022/2023,"Kingston upon Hull, City of",FALSE
+499,Chorley,1,6,2022,07/02/2022,2021/2022,Lancashire,FALSE
+217,Fylde Borough Council,2,46,2021,15/11/2021,2021/2022,Lancashire,FALSE
+228,Fylde Borough Council,1,46,2021,15/11/2021,2021/2022,Lancashire,FALSE
+232,Fylde Borough Council,2,46,2021,15/11/2021,2021/2022,Lancashire,FALSE
+254,Fylde Borough Council,1,47,2021,22/11/2021,2021/2022,Lancashire,FALSE
+297,Fylde Borough Council,1,48,2021,29/11/2021,2021/2022,Lancashire,FALSE
+299,Fylde Borough Council,3,48,2021,29/11/2021,2021/2022,Lancashire,FALSE
+12,Lancashire,1,2,2017,09/01/2017,2016/2017,Lancashire,TRUE
+19,Lancashire ,1,5,2017,30/01/2017,2016/2017,Lancashire,TRUE
+51,Lancashire,1,46,2020,16/11/2020,2020/2021,Lancashire,TRUE
+52,Lancashire,1,46,2020,16/11/2020,2020/2021,Lancashire,TRUE
+89,Lancashire,4,48,2020,30/11/2020,2020/2021,Lancashire,TRUE
+107,Lancashire,3,50,2020,14/12/2020,2020/2021,Lancashire,TRUE
+109,Lancashire,2,50,2020,14/12/2020,2020/2021,Lancashire,TRUE
+151,Lancashire,1,52,2020,28/12/2020,2020/2021,Lancashire,TRUE
+158,Lancashire,1,52,2020,28/12/2020,2020/2021,Lancashire,TRUE
+161,Lancashire,2,52,2020,28/12/2020,2020/2021,Lancashire,TRUE
+169,Lancashire,1,1,2021,04/01/2021,2020/2021,Lancashire,TRUE
+182,Lancashire,1,5,2021,01/02/2021,2020/2021,Lancashire,TRUE
+190,"(Preston, Lancashire)",1,43,2021,25/10/2021,2021/2022,Lancashire,TRUE
+193,(Lancashire,1,43,2021,25/10/2021,2021/2022,Lancashire,TRUE
+194,(Lancashire),1,43,2021,25/10/2021,2021/2022,Lancashire,TRUE
+196,(Lancashire),2,44,2021,01/11/2021,2021/2022,Lancashire,TRUE
+197,(Lancashire),1,44,2021,01/11/2021,2021/2022,Lancashire,TRUE
+202,(Lancashire),2,44,2021,01/11/2021,2021/2022,Lancashire,TRUE
+204,Lancashire,3,45,2021,08/11/2021,2021/2022,Lancashire,TRUE
+215,West Lancashire Borough,1,45,2021,08/11/2021,2021/2022,Lancashire,TRUE
+230,West Lancashire Borough Council,2,46,2021,15/11/2021,2021/2022,Lancashire,TRUE
+247,West Lancashire Borough,1,47,2021,22/11/2021,2021/2022,Lancashire,TRUE
+284,West Lancashire Borough,1,48,2021,29/11/2021,2021/2022,Lancashire,TRUE
+337,West Lancashire Borough,3,49,2021,06/12/2021,2021/2022,Lancashire,TRUE
+344,West Lancashire Borough,3,49,2021,06/12/2021,2021/2022,Lancashire,TRUE
+352,West Lancashire Borough,2,50,2021,13/12/2021,2021/2022,Lancashire,TRUE
+366,West Lancashire Borough,1,51,2021,20/12/2021,2021/2022,Lancashire,TRUE
+447,West Lancashire Borough,1,3,2022,17/01/2022,2021/2022,Lancashire,TRUE
+449,West Lancashire Borough,1,3,2022,17/01/2022,2021/2022,Lancashire,TRUE
+511,West Lancashire Borough,1,6,2022,07/02/2022,2021/2022,Lancashire,TRUE
+541,West Lancashire Borough,1,8,2022,21/02/2022,2021/2022,Lancashire,TRUE
+586,West Lancashire Borough,1,11,2022,14/03/2022,2021/2022,Lancashire,TRUE
+856,West Lancashire Borough,1,39,2022,26/09/2022,2021/2022,Lancashire,TRUE
+894,West Lancashire,1,41,2022,10/10/2022,2022/2023,Lancashire,TRUE
+913,West Lancashire,2,42,2022,17/10/2022,2022/2023,Lancashire,TRUE
+938,West Lancashire,5,43,2022,24/10/2022,2022/2023,Lancashire,TRUE
+989,West Lancashire,5,45,2022,07/11/2022,2022/2023,Lancashire,TRUE
+1007,West Lancashire,1,46,2022,14/11/2022,2022/2023,Lancashire,TRUE
+1035,West Lancashire,1,47,2022,21/11/2022,2022/2023,Lancashire,TRUE
+224,Lancaster City Council,1,46,2021,15/11/2021,2021/2022,Lancashire,FALSE
+225,Lancaster City Council,1,46,2021,15/11/2021,2021/2022,Lancashire,FALSE
+268,Lancaster City Council,1,47,2021,22/11/2021,2021/2022,Lancashire,FALSE
+583,Lancaster City Council,1,11,2022,14/03/2022,2021/2022,Lancashire,FALSE
+866,Lancaster,5,40,2022,03/10/2022,2022/2023,Lancashire,FALSE
+929,Preston City,1,43,2022,24/10/2022,2022/2023,Lancashire,FALSE
+252,South Ribble Borough Council,1,47,2021,22/11/2021,2021/2022,Lancashire,FALSE
+388,St Helens,3,52,2021,27/12/2021,2021/2022,Lancashire,FALSE
+627,St Helens Council,1,14,2022,04/04/2022,2021/2022,Lancashire,FALSE
+253,Wyre Council,1,47,2021,22/11/2021,2021/2022,Lancashire,FALSE
+285,Leeds City Council,1,48,2021,29/11/2021,2021/2022,Leeds,TRUE
+341,Leeds City Council,1,49,2021,06/12/2021,2021/2022,Leeds,TRUE
+355,Leeds City Council,1,50,2021,13/12/2021,2021/2022,Leeds,TRUE
+396,Leeds City Council,3,1,2022,03/01/2022,2021/2022,Leeds,TRUE
+622,Leeds City Council,2,14,2022,04/04/2022,2021/2022,Leeds,TRUE
+952,Leeds,3,44,2022,31/10/2022,2022/2023,Leeds,TRUE
+1000,Leeds,1,46,2022,14/11/2022,2022/2023,Leeds,TRUE
+513,Leicester City Council,1,7,2022,14/02/2022,2021/2022,Leicester,TRUE
+793,Leicester City Council,3,32,2022,08/08/2022,2021/2022,Leicester,TRUE
+807,Leicester City Council,1,34,2022,22/08/2022,2021/2022,Leicester,TRUE
+953,Leicester City,1,44,2022,31/10/2022,2022/2023,Leicester,TRUE
+897,Blaby,1,42,2022,17/10/2022,2022/2023,Leicestershire,FALSE
+256,Charnwood Borough Council,1,47,2021,22/11/2021,2021/2022,Leicestershire,FALSE
+421,Charnwood Borough Council,1,2,2022,10/01/2022,2021/2022,Leicestershire,FALSE
+864,Hinckley and Bosworth,2,40,2022,03/10/2022,2022/2023,Leicestershire,FALSE
+2,Leicestershire,1,51,2016,19/12/2016,2016/2017,Leicestershire,TRUE
+117,Leicestershire,1,50,2020,14/12/2020,2020/2021,Leicestershire,TRUE
+688,North West Leicestershire,1,23,2022,06/06/2022,2021/2022,Leicestershire,TRUE
+801,North West Leicestershire,3,33,2022,15/08/2022,2021/2022,Leicestershire,TRUE
+1023,North West Leicestershire,1,47,2022,21/11/2022,2022/2023,Leicestershire,TRUE
+255,Melton Borough Council,1,47,2021,22/11/2021,2021/2022,Leicestershire,FALSE
+379,Melton Borough Council,1,52,2021,27/12/2021,2021/2022,Leicestershire,FALSE
+4,Lincolnshire,5,52,2016,26/12/2016,2016/2017,Lincolnshire,TRUE
+39,Lincolnshire,4,9,2018,26/02/2018,2017/2018,Lincolnshire,TRUE
+50,Lincolnshire,8,46,2020,16/11/2020,2020/2021,Lincolnshire,TRUE
+93,Lincolnshire,1,49,2020,07/12/2020,2020/2021,Lincolnshire,TRUE
+131,Lincolnshire,1,51,2020,21/12/2020,2020/2021,Lincolnshire,TRUE
+177,Lincolnshire,1,3,2021,18/01/2021,2020/2021,Lincolnshire,TRUE
+854,South Kesteven District,5,39,2022,26/09/2022,2021/2022,Lincolnshire,FALSE
+6,Merseyside,5,52,2016,26/12/2016,2016/2017,Liverpool,FALSE
+123,Greater Manchester,1,51,2020,21/12/2020,2020/2021,Manchester,FALSE
+394,Midlothian,1,52,2021,27/12/2021,2021/2022,Midlothian,TRUE
+1021,Milton Keynes,3,47,2022,21/11/2022,2022/2023,Milton Keynes,TRUE
+115,Monmouthshire,2,50,2020,14/12/2020,2020/2021,Monmouthshire,TRUE
+175,Moray,1,3,2021,18/01/2021,2020/2021,Moray,TRUE
+416,Moray,1,1,2022,03/01/2022,2021/2022,Moray,TRUE
+427,Moray,1,2,2022,10/01/2022,2021/2022,Moray,TRUE
+517,Moray,1,7,2022,14/02/2022,2021/2022,Moray,TRUE
+535,Moray,1,8,2022,21/02/2022,2021/2022,Moray,TRUE
+584,Moray,1,11,2022,14/03/2022,2021/2022,Moray,TRUE
+594,Moray,2,12,2022,21/03/2022,2021/2022,Moray,TRUE
+610,Moray,1,13,2022,28/03/2022,2021/2022,Moray,TRUE
+624,Moray,4,14,2022,04/04/2022,2021/2022,Moray,TRUE
+640,Moray,5,15,2022,11/04/2022,2021/2022,Moray,TRUE
+646,Moray,1,16,2022,18/04/2022,2021/2022,Moray,TRUE
+655,Moray,1,17,2022,25/04/2022,2021/2022,Moray,TRUE
+668,Moray,1,18,2022,02/05/2022,2021/2022,Moray,TRUE
+674,Moray,2,19,2022,09/05/2022,2021/2022,Moray,TRUE
+687,Moray,2,23,2022,06/06/2022,2021/2022,Moray,TRUE
+759,Moray,1,28,2022,11/07/2022,2021/2022,Moray,TRUE
+768,Moray,5,29,2022,18/07/2022,2021/2022,Moray,TRUE
+791,Moray,1,32,2022,08/08/2022,2021/2022,Moray,TRUE
+1022,Moray,5,47,2022,21/11/2022,2022/2023,Moray,TRUE
+171,Western Isles,1,1,2021,04/01/2021,2020/2021,Na h-Eileanan Siar,FALSE
+187,"Flannan Isles, Outer Hebrides, Scotland",1,32,2021,09/08/2021,2020/2021,Na h-Eileanan Siar,FALSE
+188,"St Kilda, Outer Hebrides, Scotland",3,33,2021,16/08/2021,2020/2021,Na h-Eileanan Siar,FALSE
+684,Western Isles,3,22,2022,30/05/2022,2021/2022,Na h-Eileanan Siar,FALSE
+710,Western Isles,4,24,2022,13/06/2022,2021/2022,Na h-Eileanan Siar,FALSE
+803,Western Isles,1,33,2022,15/08/2022,2021/2022,Na h-Eileanan Siar,FALSE
+836,Western Isles,1,37,2022,12/09/2022,2021/2022,Na h-Eileanan Siar,FALSE
+844,Western Isles,1,38,2022,19/09/2022,2021/2022,Na h-Eileanan Siar,FALSE
+369,Newcastle City Council,1,51,2021,20/12/2021,2021/2022,Newcastle upon Tyne,FALSE
+555,Newcastle City Council,1,9,2022,28/02/2022,2021/2022,Newcastle upon Tyne,FALSE
+882,Newcastle City Council,1,41,2022,10/10/2022,2022/2023,Newcastle upon Tyne,FALSE
+868,Newport,2,40,2022,03/10/2022,2022/2023,Newport,TRUE
+371,Breckland,1,51,2021,20/12/2021,2021/2022,Norfolk,FALSE
+846,Broadland District,1,39,2022,26/09/2022,2021/2022,Norfolk,FALSE
+858,Broadland,2,40,2022,03/10/2022,2022/2023,Norfolk,FALSE
+920,Broadland,2,43,2022,24/10/2022,2022/2023,Norfolk,FALSE
+865,King's Lynn,1,40,2022,03/10/2022,2022/2023,Norfolk,FALSE
+20,Norfolk,1,6,2017,06/02/2017,2016/2017,Norfolk,TRUE
+21,Norfolk,1,7,2017,13/02/2017,2016/2017,Norfolk,TRUE
+22,Norfolk,1,8,2017,20/02/2017,2016/2017,Norfolk,TRUE
+25,Norfolk,1,28,2017,10/07/2017,2016/2017,Norfolk,TRUE
+95,Norfolk,1,49,2020,07/12/2020,2020/2021,Norfolk,TRUE
+112,Norfolk,6,50,2020,14/12/2020,2020/2021,Norfolk,TRUE
+113,Norfolk,5,50,2020,14/12/2020,2020/2021,Norfolk,TRUE
+128,Norfolk,1,51,2020,21/12/2020,2020/2021,Norfolk,TRUE
+134,Norfolk,1,51,2020,21/12/2020,2020/2021,Norfolk,TRUE
+140,Norfolk,2,52,2020,28/12/2020,2020/2021,Norfolk,TRUE
+145,Norfolk ,1,52,2020,28/12/2020,2020/2021,Norfolk,TRUE
+200,(Norfolk),1,44,2021,01/11/2021,2021/2022,Norfolk,TRUE
+216,Borough Council of Kings Lynn and West Norfolk,7,45,2021,08/11/2021,2021/2022,Norfolk,TRUE
+235,Borough Council of Kings Lynn and West Norfolk,1,46,2021,15/11/2021,2021/2022,Norfolk,TRUE
+302,South Norfolk District Council,1,48,2021,29/11/2021,2021/2022,Norfolk,TRUE
+303,North Norfolk District Council,1,48,2021,29/11/2021,2021/2022,Norfolk,TRUE
+304,North Norfolk District Council,2,48,2021,29/11/2021,2021/2022,Norfolk,TRUE
+360,Borough Council of Kings Lynn and West Norfolk,2,50,2021,13/12/2021,2021/2022,Norfolk,TRUE
+372,North Norfolk District Council,1,51,2021,20/12/2021,2021/2022,Norfolk,TRUE
+378,Borough Council of Kings Lynn and West Norfolk,1,51,2021,20/12/2021,2021/2022,Norfolk,TRUE
+405,Borough Council of Kings Lynn and West Norfolk,3,1,2022,03/01/2022,2021/2022,Norfolk,TRUE
+451,Borough Council of Kings Lynn and West Norfolk,1,3,2022,17/01/2022,2021/2022,Norfolk,TRUE
+481,Borough Council of Kings Lynn and West Norfolk,2,5,2022,31/01/2022,2021/2022,Norfolk,TRUE
+616,Borough Council of Kings Lynn and West Norfolk,2,14,2022,04/04/2022,2021/2022,Norfolk,TRUE
+716,Borough Council of Kings Lynn and West Norfolk,1,25,2022,20/06/2022,2021/2022,Norfolk,TRUE
+754,Borough Council of Kings Lynn and West Norfolk,4,28,2022,11/07/2022,2021/2022,Norfolk,TRUE
+817,Norfolk County Council,6,35,2022,29/08/2022,2021/2022,Norfolk,TRUE
+880,King's Lynn and West Norfolk,1,41,2022,10/10/2022,2022/2023,Norfolk,TRUE
+925,King's Lynn and West Norfolk,2,43,2022,24/10/2022,2022/2023,Norfolk,TRUE
+951,King's Lynn and West Norfolk,3,44,2022,31/10/2022,2022/2023,Norfolk,TRUE
+975,King's Lynn and West Norfolk,3,45,2022,07/11/2022,2022/2023,Norfolk,TRUE
+999,King's Lynn and West Norfolk,3,46,2022,14/11/2022,2022/2023,Norfolk,TRUE
+1004,South Norfolk,1,46,2022,14/11/2022,2022/2023,Norfolk,TRUE
+1019,Kings Lynn and West Norfolk,1,47,2022,21/11/2022,2022/2023,Norfolk,TRUE
+775,North Ayrshire Council,3,30,2022,25/07/2022,2021/2022,North Ayrshire,TRUE
+956,North Ayrshire,3,44,2022,31/10/2022,2022/2023,North Ayrshire,TRUE
+556,North Lanarkshire,1,9,2022,28/02/2022,2021/2022,North Lanarkshire,TRUE
+611,North Lanarkshire,1,13,2022,28/03/2022,2021/2022,North Lanarkshire,TRUE
+271,North Northamptonshire,2,47,2021,22/11/2021,2021/2022,North Northamptonshire,TRUE
+339,North Northamptonshire,1,49,2021,06/12/2021,2021/2022,North Northamptonshire,TRUE
+465,North Northamptonshire,2,4,2022,24/01/2022,2021/2022,North Northamptonshire,TRUE
+536,North Northamptonshire,1,8,2022,21/02/2022,2021/2022,North Northamptonshire,TRUE
+906,North Northamptonshire,1,42,2022,17/10/2022,2022/2023,North Northamptonshire,TRUE
+980,North Northamptonshire,2,45,2022,07/11/2022,2022/2023,North Northamptonshire,TRUE
+739,Wealden District Council,1,26,2022,27/06/2022,2021/2022,North Northamptonshire,FALSE
+385,North Somerset,1,52,2021,27/12/2021,2021/2022,North Somerset,TRUE
+981,North Somerset,1,45,2022,07/11/2022,2022/2023,North Somerset,TRUE
+136,Tyne and Wear,1,51,2020,21/12/2020,2020/2021,North Tyneside,FALSE
+147,Tyne and Wear,1,52,2020,28/12/2020,2020/2021,North Tyneside,FALSE
+168,Tyne and Wear,1,53,2020,04/01/2021,2020/2021,North Tyneside,FALSE
+428,North Tyneside,1,2,2022,10/01/2022,2021/2022,North Tyneside,TRUE
+519,North Tyneside,1,7,2022,14/02/2022,2021/2022,North Tyneside,TRUE
+776,North Tyneside,2,30,2022,25/07/2022,2021/2022,North Tyneside,TRUE
+236,Craven District Council,1,46,2021,15/11/2021,2021/2022,North Yorkshire,FALSE
+276,Craven District Council,1,47,2021,22/11/2021,2021/2022,North Yorkshire,FALSE
+728,Craven District Council,1,26,2022,27/06/2022,2021/2022,North Yorkshire,FALSE
+310,Harrogate,2,48,2021,29/11/2021,2021/2022,North Yorkshire,FALSE
+347,Harrogate,2,50,2021,13/12/2021,2021/2022,North Yorkshire,FALSE
+462,Harrogate,3,4,2022,24/01/2022,2021/2022,North Yorkshire,FALSE
+504,Harrogate,3,6,2022,07/02/2022,2021/2022,North Yorkshire,FALSE
+733,Harrogate,1,26,2022,27/06/2022,2021/2022,North Yorkshire,FALSE
+905,Harrogate,3,42,2022,17/10/2022,2022/2023,North Yorkshire,FALSE
+997,Harrogate,3,46,2022,14/11/2022,2022/2023,North Yorkshire,FALSE
+1016,Harrogate,4,47,2022,21/11/2022,2022/2023,North Yorkshire,FALSE
+18,North Yorkshire,1,4,2017,23/01/2017,2016/2017,North Yorkshire,TRUE
+201,(North Yorkshire),1,44,2021,01/11/2021,2021/2022,North Yorkshire,TRUE
+777,North Yorkshire,3,30,2022,25/07/2022,2021/2022,North Yorkshire,TRUE
+348,Ryedale District Council,1,50,2021,13/12/2021,2021/2022,North Yorkshire,FALSE
+557,Ryedale District Council,1,9,2022,28/02/2022,2021/2022,North Yorkshire,FALSE
+596,Ryedale District Council,1,12,2022,21/03/2022,2021/2022,North Yorkshire,FALSE
+539,Scarborough Borough,1,8,2022,21/02/2022,2021/2022,North Yorkshire,FALSE
+833,Scarborough Borough,4,37,2022,12/09/2022,2021/2022,North Yorkshire,FALSE
+14,Northants,1,2,2017,09/01/2017,2016/2017,West Northamptonshire,FALSE
+83,Northumberland,1,48,2020,30/11/2020,2020/2021,Northumberland,TRUE
+87,Northumberland,2,48,2020,30/11/2020,2020/2021,Northumberland,TRUE
+92,Northumberland,1,49,2020,07/12/2020,2020/2021,Northumberland,TRUE
+137,Northumberland,1,51,2020,21/12/2020,2020/2021,Northumberland, 
+237,Northumberland,2,46,2021,15/11/2021,2021/2022,Northumberland,TRUE
+238,Northumberland,1,46,2021,15/11/2021,2021/2022,Northumberland,TRUE
+429,Northumberland,3,2,2022,10/01/2022,2021/2022,Northumberland,TRUE
+445,Northumberland,2,3,2022,17/01/2022,2021/2022,Northumberland,TRUE
+704,Northumberland,19,24,2022,13/06/2022,2021/2022,Northumberland,TRUE
+725,Northumberland,3,25,2022,20/06/2022,2021/2022,Northumberland,TRUE
+737,Northumberland,7,26,2022,27/06/2022,2021/2022,Northumberland,TRUE
+778,Northumberland,9,30,2022,25/07/2022,2021/2022,Northumberland,TRUE
+789,Northumberland,2,32,2022,08/08/2022,2021/2022,Northumberland,TRUE
+982,Northumberland,1,45,2022,07/11/2022,2022/2023,Northumberland,TRUE
+537,Nottingham City Council,2,8,2022,21/02/2022,2021/2022,Nottingham,TRUE
+787,Nottingham City Council,3,31,2022,01/08/2022,2021/2022,Nottingham,TRUE
+494,Ashfield,1,6,2022,07/02/2022,2021/2022,Nottinghamshire,FALSE
+515,Ashfield,2,7,2022,14/02/2022,2021/2022,Nottinghamshire,FALSE
+527,Ashfield,6,8,2022,21/02/2022,2021/2022,Nottinghamshire,FALSE
+591,Ashfield,4,12,2022,21/03/2022,2021/2022,Nottinghamshire,FALSE
+398,Bassetlaw District,1,1,2022,03/01/2022,2021/2022,Nottinghamshire,FALSE
+327,Gedling Borough,1,49,2021,06/12/2021,2021/2022,Nottinghamshire,FALSE
+553,Gedling Borough,2,9,2022,28/02/2022,2021/2022,Nottinghamshire,FALSE
+505,Mansfield,3,6,2022,07/02/2022,2021/2022,Nottinghamshire,FALSE
+681,Mansfield,1,21,2022,23/05/2022,2021/2022,Nottinghamshire,FALSE
+758,Mansfield,1,28,2022,11/07/2022,2021/2022,Nottinghamshire,FALSE
+625,Newark and Sherwood,3,14,2022,04/04/2022,2021/2022,Nottinghamshire,FALSE
+641,Newark and Sherwood,7,15,2022,11/04/2022,2021/2022,Nottinghamshire,FALSE
+647,Newark and Sherwood,1,16,2022,18/04/2022,2021/2022,Nottinghamshire,FALSE
+656,Newark and Sherwood,3,17,2022,25/04/2022,2021/2022,Nottinghamshire,FALSE
+669,Newark and Sherwood,6,18,2022,02/05/2022,2021/2022,Nottinghamshire,FALSE
+677,Newark and Sherwood,3,20,2022,16/05/2022,2021/2022,Nottinghamshire,FALSE
+657,Nottinghamshire,13,17,2022,25/04/2022,2021/2022,Nottinghamshire,TRUE
+234,Rushcliffe Borough Council,1,46,2021,15/11/2021,2021/2022,Nottinghamshire,FALSE
+250,Rushcliffe Borough Council,1,47,2021,22/11/2021,2021/2022,Nottinghamshire,FALSE
+595,Orkney,1,12,2022,21/03/2022,2021/2022,Orkney Islands,FALSE
+705,Orkney,3,24,2022,13/06/2022,2021/2022,Orkney Islands,FALSE
+957,Orkney,2,44,2022,31/10/2022,2022/2023,Orkney Islands,FALSE
+682,Orkney Islands,1,21,2022,23/05/2022,2021/2022,Orkney Islands,TRUE
+689,Orkney Islands,5,23,2022,06/06/2022,2021/2022,Orkney Islands,TRUE
+779,Orkney Islands,1,30,2022,25/07/2022,2021/2022,Orkney Islands,TRUE
+928,Orkney Islands,1,43,2022,24/10/2022,2022/2023,Orkney Islands,TRUE
+485,Oxford City Council,2,5,2022,31/01/2022,2021/2022,Oxfordshire,FALSE
+1024,Oxford City,4,47,2022,21/11/2022,2022/2023,Oxfordshire,FALSE
+37,Oxfordshire,1,7,2018,12/02/2018,2017/2018,Oxfordshire,TRUE
+79,Oxfordshire,1,48,2020,30/11/2020,2020/2021,Oxfordshire,TRUE
+91,Oxfordshire,1,49,2020,07/12/2020,2020/2021,Oxfordshire,TRUE
+326,South Oxfordshire,1,49,2021,06/12/2021,2021/2022,Oxfordshire,TRUE
+23,Pembroke ,1,9,2017,27/02/2017,2016/2017,Pembrokeshire,FALSE
+788,Pembrokeshire,4,31,2022,01/08/2022,2021/2022,Pembrokeshire,TRUE
+808,Pembrokeshire,1,34,2022,22/08/2022,2021/2022,Pembrokeshire,TRUE
+831,Pembrokeshire,1,37,2022,12/09/2022,2021/2022,Pembrokeshire,TRUE
+869,Pembrokeshire,1,40,2022,03/10/2022,2022/2023,Pembrokeshire,TRUE
+244,Perth and Kinross Council,1,46,2021,15/11/2021,2021/2022,Perth and Kinross,TRUE
+430,Perth and Kinross,1,2,2022,10/01/2022,2021/2022,Perth and Kinross,TRUE
+466,Perth and Kinross,3,4,2022,24/01/2022,2021/2022,Perth and Kinross,TRUE
+482,Perth and Kinross,1,5,2022,31/01/2022,2021/2022,Perth and Kinross,TRUE
+491,Perth and Kinross,2,5,2022,31/01/2022,2021/2022,Perth and Kinross,TRUE
+506,Perth and Kinross,2,6,2022,07/02/2022,2021/2022,Perth and Kinross,TRUE
+538,Perth and Kinross,1,8,2022,21/02/2022,2021/2022,Perth and Kinross,TRUE
+570,Perth and Kinross,2,10,2022,07/03/2022,2021/2022,Perth and Kinross,TRUE
+612,Perth and Kinross,1,13,2022,28/03/2022,2021/2022,Perth and Kinross,TRUE
+658,Perth and Kinross,1,17,2022,25/04/2022,2021/2022,Perth and Kinross,TRUE
+678,Perth and Kinross,2,20,2022,16/05/2022,2021/2022,Perth and Kinross,TRUE
+282,Peterborough City Council,1,48,2021,29/11/2021,2021/2022,Peterborough,TRUE
+1001,Peterborough City,3,46,2022,14/11/2022,2022/2023,Peterborough,TRUE
+821,Plymouth City Council,1,36,2022,05/09/2022,2021/2022,Plymouth,TRUE
+832,Plymouth City Council,2,37,2022,12/09/2022,2021/2022,Plymouth,TRUE
+222,Powys,1,46,2021,15/11/2021,2021/2022,Powys,TRUE
+479,Powys,1,5,2022,31/01/2022,2021/2022,Powys,TRUE
+599,Powys,1,12,2022,21/03/2022,2021/2022,Powys,TRUE
+626,Powys,4,14,2022,04/04/2022,2021/2022,Powys,TRUE
+884,Powys,4,41,2022,10/10/2022,2022/2023,Powys,TRUE
+1025,Powys,1,47,2022,21/11/2022,2022/2023,Powys,TRUE
+885,Redbridge,1,41,2022,10/10/2022,2022/2023,Redbridge,TRUE
+930,Redbridge,1,43,2022,24/10/2022,2022/2023,Redbridge,TRUE
+958,Redbridge,2,44,2022,31/10/2022,2022/2023,Redbridge,TRUE
+983,Redbridge,2,45,2022,07/11/2022,2022/2023,Redbridge,TRUE
+706,Redcar and Cleveland Borough,2,24,2022,13/06/2022,2021/2022,Redcar and Cleveland,TRUE
+769,Redcar and Cleveland Borough,2,29,2022,18/07/2022,2021/2022,Redcar and Cleveland,TRUE
+1002,Redcar and Cleveland,3,46,2022,14/11/2022,2022/2023,Redcar and Cleveland,TRUE
+1026,Redcar and Cleveland,3,47,2022,21/11/2022,2022/2023,Redcar and Cleveland,TRUE
+431,Renfrewshire,1,2,2022,10/01/2022,2021/2022,Renfrewshire,TRUE
+623,London Borough of Richmond upon Thames,1,14,2022,04/04/2022,2021/2022,Richmond upon Thames,FALSE
+723,London Borough of Richmond upon Thames,2,25,2022,20/06/2022,2021/2022,Richmond upon Thames,FALSE
+749,London Borough of Richmond upon Thames,1,27,2022,04/07/2022,2021/2022,Richmond upon Thames,FALSE
+206,Richmondshire,6,45,2021,08/11/2021,2021/2022,Richmond upon Thames,FALSE
+886,Richmond upon Thames,1,41,2022,10/10/2022,2022/2023,Richmond upon Thames,TRUE
+931,Richmond upon Thames,8,43,2022,24/10/2022,2022/2023,Richmond upon Thames,TRUE
+959,Richmond upon Thames,4,44,2022,31/10/2022,2022/2023,Richmond upon Thames,TRUE
+402,Richmondshire,1,1,2022,03/01/2022,2021/2022,Richmond upon Thames,FALSE
+30,Rutland,9,4,2018,22/01/2018,2017/2018,Rutland,TRUE
+887,Rutland,1,41,2022,10/10/2022,2022/2023,Rutland,TRUE
+273,Sandwell Metropolitan Borough Council,1,47,2021,22/11/2021,2021/2022,Sandwell,TRUE
+376,Sandwell Metropolitan Borough Council,3,51,2021,20/12/2021,2021/2022,Sandwell,TRUE
+408,Sandwell Metropolitan Borough Council,1,1,2022,03/01/2022,2021/2022,Sandwell,TRUE
+448,Sandwell Metropolitan Borough Council,1,3,2022,17/01/2022,2021/2022,Sandwell,TRUE
+296,Scottish Borders,1,48,2021,29/11/2021,2021/2022,Scottish Borders,TRUE
+338,Scottish Borders,1,49,2021,06/12/2021,2021/2022,Scottish Borders,TRUE
+358,Scottish Borders,1,50,2021,13/12/2021,2021/2022,Scottish Borders,TRUE
+392,Scottish Borders,2,52,2021,27/12/2021,2021/2022,Scottish Borders,TRUE
+415,Scottish Borders,1,1,2022,03/01/2022,2021/2022,Scottish Borders,TRUE
+432,Scottish Borders,3,2,2022,10/01/2022,2021/2022,Scottish Borders,TRUE
+441,Scottish Borders,2,3,2022,17/01/2022,2021/2022,Scottish Borders,TRUE
+558,Scottish Borders,1,9,2022,28/02/2022,2021/2022,Scottish Borders,TRUE
+571,Scottish Borders,1,10,2022,07/03/2022,2021/2022,Scottish Borders,TRUE
+642,Scottish Borders,1,15,2022,11/04/2022,2021/2022,Scottish Borders,TRUE
+708,Scottish Borders,1,24,2022,13/06/2022,2021/2022,Scottish Borders,TRUE
+760,Scottish Borders,2,28,2022,11/07/2022,2021/2022,Scottish Borders,TRUE
+852,Scottish Borders,3,39,2022,26/09/2022,2021/2022,Scottish Borders,TRUE
+984,Scottish Borders,4,45,2022,07/11/2022,2022/2023,Scottish Borders,TRUE
+223,Sefton Metropolitan Borough Council,3,46,2021,15/11/2021,2021/2022,Sefton,TRUE
+246,Sefton Metropolitan Borough Council,3,47,2021,22/11/2021,2021/2022,Sefton,TRUE
+298,Sefton Metropolitan Borough Council,3,48,2021,29/11/2021,2021/2022,Sefton,TRUE
+490,Sefton Metropolitan Borough Council,1,5,2022,31/01/2022,2021/2022,Sefton,TRUE
+403,Sheffield City Council,3,1,2022,03/01/2022,2021/2022,Sheffield,TRUE
+186,"Shetland, Scotland",3,30,2021,26/07/2021,2020/2021,Shetland Islands,FALSE
+659,Shetland Islands,4,17,2022,25/04/2022,2021/2022,Shetland Islands,TRUE
+679,Shetland Islands,3,20,2022,16/05/2022,2021/2022,Shetland Islands,TRUE
+690,Shetland Islands,1,23,2022,06/06/2022,2021/2022,Shetland Islands,TRUE
+709,Shetland Islands,21,24,2022,13/06/2022,2021/2022,Shetland Islands,TRUE
+770,Shetland Islands,7,29,2022,18/07/2022,2021/2022,Shetland Islands,TRUE
+853,Shetland Islands,1,39,2022,26/09/2022,2021/2022,Shetland Islands,TRUE
+162,Shropshire,1,52,2020,28/12/2020,2020/2021,Shropshire,TRUE
+315,Shropshire,2,48,2021,29/11/2021,2021/2022,Shropshire,TRUE
+333,Shropshire,1,49,2021,06/12/2021,2021/2022,Shropshire,TRUE
+356,Shropshire,2,50,2021,13/12/2021,2021/2022,Shropshire,TRUE
+433,Shropshire,3,2,2022,10/01/2022,2021/2022,Shropshire,TRUE
+909,Shropshire,1,42,2022,17/10/2022,2022/2023,Shropshire,TRUE
+888,Solihull Metropolitan,4,41,2022,10/10/2022,2022/2023,Solihull,TRUE
+932,Solihull Metropolitan,1,43,2022,24/10/2022,2022/2023,Solihull,TRUE
+311,Cheddar,1,48,2021,29/11/2021,2021/2022,Somerset,FALSE
+359,Mendip District Council,1,50,2021,13/12/2021,2021/2022,Somerset,FALSE
+585,Sedgemoor District,1,11,2022,14/03/2022,2021/2022,Somerset,FALSE
+908,Sedgemoor,1,42,2022,17/10/2022,2022/2023,Somerset,FALSE
+960,Sedgemoor,2,44,2022,31/10/2022,2022/2023,Somerset,FALSE
+1029,Sedgemoor,1,47,2022,21/11/2022,2022/2023,Somerset,FALSE
+3,Somerset,1,51,2016,19/12/2016,2016/2017,Somerset,TRUE
+17,Somerset,1,3,2017,16/01/2017,2016/2017,Somerset,TRUE
+24,Somerset,1,11,2017,13/03/2017,2016/2017,Somerset,TRUE
+910,Somerset West and Taunton,3,42,2022,17/10/2022,2022/2023,Somerset,FALSE
+467,South Ayrshire Council,1,4,2022,24/01/2022,2021/2022,South Ayrshire,TRUE
+780,South Ayrshire Council,9,30,2022,25/07/2022,2021/2022,South Ayrshire,TRUE
+290,South Lanarkshire,1,48,2021,29/11/2021,2021/2022,South Lanarkshire,TRUE
+353,South Lanarkshire,1,50,2021,13/12/2021,2021/2022,South Lanarkshire,TRUE
+381,South Lanarkshire,1,52,2021,27/12/2021,2021/2022,South Lanarkshire,TRUE
+384,South Lanarkshire,1,52,2021,27/12/2021,2021/2022,South Lanarkshire,TRUE
+440,South Lanarkshire,1,3,2022,17/01/2022,2021/2022,South Lanarkshire,TRUE
+559,South Lanarkshire,1,9,2022,28/02/2022,2021/2022,South Lanarkshire,TRUE
+572,South Lanarkshire,1,10,2022,07/03/2022,2021/2022,South Lanarkshire,TRUE
+597,South Lanarkshire,1,12,2022,21/03/2022,2021/2022,South Lanarkshire,TRUE
+613,South Lanarkshire,1,13,2022,28/03/2022,2021/2022,South Lanarkshire,TRUE
+380,South Tyneside,3,52,2021,27/12/2021,2021/2022,South Tyneside,TRUE
+434,South Tyneside,2,2,2022,10/01/2022,2021/2022,South Tyneside,TRUE
+514,South Tyneside,1,7,2022,14/02/2022,2021/2022,South Tyneside,TRUE
+750,South Tyneside,2,27,2022,04/07/2022,2021/2022,South Tyneside,TRUE
+794,South Tyneside,5,32,2022,08/08/2022,2021/2022,South Tyneside,TRUE
+475,East Staffordshire Borough,2,5,2022,31/01/2022,2021/2022,Staffordshire,FALSE
+516,East Staffordshire Borough,1,7,2022,14/02/2022,2021/2022,Staffordshire,FALSE
+219,Lichfield,2,46,2021,15/11/2021,2021/2022,Staffordshire,FALSE
+241,Lichfield District Council,2,46,2021,15/11/2021,2021/2022,Staffordshire,FALSE
+267,Lichfield District Council,2,47,2021,22/11/2021,2021/2022,Staffordshire,FALSE
+954,Lichfield,2,44,2022,31/10/2022,2022/2023,Staffordshire,FALSE
+883,Newcastle-under-Lyme,2,41,2022,10/10/2022,2022/2023,Staffordshire,FALSE
+660,South Staffordshire,1,17,2022,25/04/2022,2021/2022,Staffordshire,FALSE
+985,South Staffordshire,1,45,2022,07/11/2022,2022/2023,Staffordshire,FALSE
+1005,Stafford,1,46,2022,14/11/2022,2022/2023,Staffordshire,FALSE
+74,Staffordshire,1,48,2020,30/11/2020,2020/2021,Staffordshire,TRUE
+184,Staffordshire,6,15,2021,12/04/2021,2020/2021,Staffordshire,TRUE
+476,Staffordshire Moorlands District,1,5,2022,31/01/2022,2021/2022,Staffordshire,FALSE
+889,Staffordshire Moorlands,2,41,2022,10/10/2022,2022/2023,Staffordshire,FALSE
+933,Staffordshire Moorlands,3,43,2022,24/10/2022,2022/2023,Staffordshire,FALSE
+962,Staffordshire Moorlands,1,44,2022,31/10/2022,2022/2023,Staffordshire,FALSE
+1030,Staffordshire Moorlands,1,47,2022,21/11/2022,2022/2023,Staffordshire,FALSE
+508,Stirling,1,6,2022,07/02/2022,2021/2022,Stirling,TRUE
+675,Stirling,2,19,2022,09/05/2022,2021/2022,Stirling,TRUE
+890,Stirling,1,41,2022,10/10/2022,2022/2023,Stirling,TRUE
+231,Stockport Metropolitan Borough Council,2,46,2021,15/11/2021,2021/2022,Stockport,TRUE
+391,Stockport Metropolitan Borough Council,1,52,2021,27/12/2021,2021/2022,Stockport,TRUE
+413,Stockport Metropolitan Borough Council,1,1,2022,03/01/2022,2021/2022,Stockport,TRUE
+239,Stockton-on-Tees Borough Council,1,46,2021,15/11/2021,2021/2022,Stockton-on-Tees,TRUE
+308,Stockton-on-Tees Borough Council,3,48,2021,29/11/2021,2021/2022,Stockton-on-Tees,TRUE
+1006,Stockton-on-Tees,4,46,2022,14/11/2022,2022/2023,Stockton-on-Tees,TRUE
+1031,Stockton-on-Tees,2,47,2022,21/11/2022,2022/2023,Stockton-on-Tees,TRUE
+802,Stoke-on-Trent City Council,2,33,2022,15/08/2022,2021/2022,Stoke-on-Trent,TRUE
+870,Stoke-on-Trent,3,40,2022,03/10/2022,2022/2023,Stoke-on-Trent,TRUE
+934,Stoke-on-Trent,4,43,2022,24/10/2022,2022/2023,Stoke-on-Trent,TRUE
+986,Stoke-on-Trent,4,45,2022,07/11/2022,2022/2023,Stoke-on-Trent,TRUE
+874,Babergh,5,41,2022,10/10/2022,2022/2023,Suffolk,FALSE
+919,Babergh,4,43,2022,24/10/2022,2022/2023,Suffolk,FALSE
+41,Suffolk,1,9,2018,26/02/2018,2017/2018,Suffolk,TRUE
+44,Suffolk,2,13,2018,26/03/2018,2017/2018,Suffolk,TRUE
+45,Suffolk - new report from previously reported location,2,14,2018,02/04/2018,2017/2018,Suffolk,TRUE
+46,Suffolk - new report from previously reported location,1,16,2018,16/04/2018,2017/2018,Suffolk,TRUE
+72,Suffolk,1,48,2020,30/11/2020,2020/2021,Suffolk,TRUE
+257,East Suffolk District Council,2,47,2021,22/11/2021,2021/2022,Suffolk,TRUE
+443,Mid Suffolk,1,3,2022,17/01/2022,2021/2022,Suffolk,TRUE
+700,East Suffolk District Council,3,24,2022,13/06/2022,2021/2022,Suffolk,TRUE
+851,Mid Suffolk,1,39,2022,26/09/2022,2021/2022,Suffolk,TRUE
+857,West Suffolk,1,39,2022,26/09/2022,2021/2022,Suffolk,TRUE
+879,East Suffolk,3,41,2022,10/10/2022,2022/2023,Suffolk,TRUE
+881,Mid Suffolk,3,41,2022,10/10/2022,2022/2023,Suffolk,TRUE
+895,West Suffolk,5,41,2022,10/10/2022,2022/2023,Suffolk,TRUE
+923,East Suffolk,1,43,2022,24/10/2022,2022/2023,Suffolk,TRUE
+978,Mid Suffolk,1,45,2022,07/11/2022,2022/2023,Suffolk,TRUE
+13,Tyne & Wear,1,2,2017,09/01/2017,2016/2017,Sunderland,FALSE
+307,Sunderland City Council,6,48,2021,29/11/2021,2021/2022,Sunderland,TRUE
+335,Sunderland City Council,2,49,2021,06/12/2021,2021/2022,Sunderland,TRUE
+363,Sunderland City Council,3,51,2021,20/12/2021,2021/2022,Sunderland,TRUE
+661,Sunderland,1,17,2022,25/04/2022,2021/2022,Sunderland,TRUE
+751,Sunderland,1,27,2022,04/07/2022,2021/2022,Sunderland,TRUE
+809,Sunderland,1,34,2022,22/08/2022,2021/2022,Sunderland,TRUE
+892,Sunderland City Council,1,41,2022,10/10/2022,2022/2023,Sunderland,TRUE
+987,Sunderland City Council,1,45,2022,07/11/2022,2022/2023,Sunderland,TRUE
+974,Elmbridge,2,45,2022,07/11/2022,2022/2023,Surrey,FALSE
+1027,Runnymede,1,47,2022,21/11/2022,2022/2023,Surrey,FALSE
+961,Spelthorne,1,44,2022,31/10/2022,2022/2023,Surrey,FALSE
+33,Surrey,2,5,2018,29/01/2018,2017/2018,Surrey,TRUE
+35,Surrey,1,5,2018,29/01/2018,2017/2018,Surrey,TRUE
+38,Surrey,2,9,2018,26/02/2018,2017/2018,Surrey,TRUE
+80,Surrey,1,48,2020,30/11/2020,2020/2021,Surrey,TRUE
+901,City and County of Swansea,2,42,2022,17/10/2022,2022/2023,Swansea,FALSE
+662,Swindon,1,17,2022,25/04/2022,2021/2022,Swindon,TRUE
+872,Swindon,3,40,2022,03/10/2022,2022/2023,Swindon,TRUE
+963,Swindon,1,44,2022,31/10/2022,2022/2023,Swindon,TRUE
+771,Thurrock Council,2,29,2022,18/07/2022,2021/2022,Thurrock,TRUE
+630,Torbay Council,1,14,2022,04/04/2022,2021/2022,Torbay,TRUE
+824,Torbay Council,2,36,2022,05/09/2022,2021/2022,Torbay,TRUE
+478,Trafford Metropolitan Borough,1,5,2022,31/01/2022,2021/2022,Trafford,TRUE
+42,South Glamorgan,1,9,2018,26/02/2018,2017/2018,Vale of Glamorgan,FALSE
+510,Vale of Glamorgan,1,6,2022,07/02/2022,2021/2022,Vale of Glamorgan,TRUE
+520,Vale of Glamorgan,1,7,2022,14/02/2022,2021/2022,Vale of Glamorgan,TRUE
+540,Vale of Glamorgan,3,8,2022,21/02/2022,2021/2022,Vale of Glamorgan,TRUE
+560,Vale of Glamorgan,1,9,2022,28/02/2022,2021/2022,Vale of Glamorgan,TRUE
+573,Vale of Glamorgan,1,10,2022,07/03/2022,2021/2022,Vale of Glamorgan,TRUE
+598,Vale of Glamorgan,1,12,2022,21/03/2022,2021/2022,Vale of Glamorgan,TRUE
+631,Vale of Glamorgan,1,14,2022,04/04/2022,2021/2022,Vale of Glamorgan,TRUE
+648,Vale of Glamorgan,2,16,2022,18/04/2022,2021/2022,Vale of Glamorgan,TRUE
+893,Vale of Glamorgan,3,41,2022,10/10/2022,2022/2023,Vale of Glamorgan,TRUE
+912,Vale of Glamorgan,3,42,2022,17/10/2022,2022/2023,Vale of Glamorgan,TRUE
+937,Wakefield Metropolitan,1,43,2022,24/10/2022,2022/2023,Wakefield,TRUE
+1033,Wakefield,5,47,2022,21/11/2022,2022/2023,Wakefield,TRUE
+245,Walsall Metropolitan Borough Council,2,46,2021,15/11/2021,2021/2022,Walsall,TRUE
+266,Walsall Metropolitan Borough Council,2,47,2021,22/11/2021,2021/2022,Walsall,TRUE
+274,Walsall Metropolitan Borough Council,1,47,2021,22/11/2021,2021/2022,Walsall,TRUE
+330,Walsall Metropolitan Borough Council,2,49,2021,06/12/2021,2021/2022,Walsall,TRUE
+375,Walsall Metropolitan Borough Council,3,51,2021,20/12/2021,2021/2022,Walsall,TRUE
+406,Walsall Metropolitan Borough Council,1,1,2022,03/01/2022,2021/2022,Walsall,TRUE
+435,Walsall Metropolitan Borough Council,1,2,2022,10/01/2022,2021/2022,Walsall,TRUE
+439,Walsall Metropolitan Borough Council,1,3,2022,17/01/2022,2021/2022,Walsall,TRUE
+469,Walsall Metropolitan Borough Council,3,4,2022,24/01/2022,2021/2022,Walsall,TRUE
+988,Waltham Forest,2,45,2022,07/11/2022,2022/2023,Waltham Forest,TRUE
+387,Warrington,1,52,2021,27/12/2021,2021/2022,Warrington,TRUE
+477,Warrington,1,5,2022,31/01/2022,2021/2022,Warrington,TRUE
+287,Stratford-on-Avon District Council,7,48,2021,29/11/2021,2021/2022,Warwickshire,FALSE
+676,Stratford-on-Avon District Council,1,19,2022,09/05/2022,2021/2022,Warwickshire,FALSE
+917,Stratford-on-Avon,1,42,2022,17/10/2022,2022/2023,Warwickshire,FALSE
+1034,Warwick,2,47,2022,21/11/2022,2022/2023,Warwickshire,FALSE
+27,Warwickshire,13,3,2018,15/01/2018,2017/2018,Warwickshire,TRUE
+36,Warwickshire,1,5,2018,29/01/2018,2017/2018,Warwickshire,TRUE
+71,Warwarckshire,1,48,2020,30/11/2020,2020/2021,Warwickshire,FALSE
+86,Warwickshire,1,48,2020,30/11/2020,2020/2021,Warwickshire,TRUE
+97,Warwickshire,1,49,2020,07/12/2020,2020/2021,Warwickshire,TRUE
+108,Warwickshire,2,50,2020,14/12/2020,2020/2021,Warwickshire,TRUE
+150,Warwickshire,1,52,2020,28/12/2020,2020/2021,Warwickshire,TRUE
+165,Warwarkshire,1,53,2020,04/01/2021,2020/2021,Warwickshire,FALSE
+172,Warwickshire,1,1,2021,04/01/2021,2020/2021,Warwickshire,TRUE
+198,(Warwickshire),1,44,2021,01/11/2021,2021/2022,Warwickshire,TRUE
+199,(Warwickshire),4,44,2021,01/11/2021,2021/2022,Warwickshire,TRUE
+205,Stratford-on-Avon District Council,33,45,2021,08/11/2021,2021/2022,Warwickshire,FALSE
+683,North Warwickshire,1,22,2022,30/05/2022,2021/2022,Warwickshire,TRUE
+32,Berkshire,5,5,2018,29/01/2018,2017/2018,West Berkshire,FALSE
+322,West Berkshire Council,3,49,2021,06/12/2021,2021/2022,West Berkshire,TRUE
+542,West Lothian,1,8,2022,21/02/2022,2021/2022,West Lothian,TRUE
+574,West Lothian,1,10,2022,07/03/2022,2021/2022,West Lothian,TRUE
+587,West Lothian,1,11,2022,14/03/2022,2021/2022,West Lothian,TRUE
+272,West Northamptonshire,1,47,2021,22/11/2021,2021/2022,West Northamptonshire,TRUE
+306,West Northamptonshire,1,48,2021,29/11/2021,2021/2022,West Northamptonshire,TRUE
+914,West Northamptonshire,3,42,2022,17/10/2022,2022/2023,West Northamptonshire,TRUE
+990,West Northamptonshire,1,45,2022,07/11/2022,2022/2023,West Northamptonshire,TRUE
+218,Arun District Council,1,46,2021,15/11/2021,2021/2022,West Sussex,FALSE
+601,Arun District Council,1,13,2022,28/03/2022,2021/2022,West Sussex,FALSE
+670,Arun District Council,1,19,2022,09/05/2022,2021/2022,West Sussex,FALSE
+695,Arun District Council,1,24,2022,13/06/2022,2021/2022,West Sussex,FALSE
+715,Arun District Council,1,25,2022,20/06/2022,2021/2022,West Sussex,FALSE
+726,Arun District Council,3,26,2022,27/06/2022,2021/2022,West Sussex,FALSE
+742,Arun District Council,3,27,2022,04/07/2022,2021/2022,West Sussex,FALSE
+772,Arun District Council,1,30,2022,25/07/2022,2021/2022,West Sussex,FALSE
+873,Arun,1,41,2022,10/10/2022,2022/2023,West Sussex,FALSE
+896,Arun,1,42,2022,17/10/2022,2022/2023,West Sussex,FALSE
+940,Arun,1,44,2022,31/10/2022,2022/2023,West Sussex,FALSE
+746,Chichester,4,27,2022,04/07/2022,2021/2022,West Sussex,FALSE
+970,Chichester,2,45,2022,07/11/2022,2022/2023,West Sussex,FALSE
+924,Horsham,1,43,2022,24/10/2022,2022/2023,West Sussex,FALSE
+357,Wigan Metropolitan Borough,2,50,2021,13/12/2021,2021/2022,Wigan,TRUE
+588,Wigan Metropolitan Borough,1,11,2022,14/03/2022,2021/2022,Wigan,TRUE
+1028,Salisbury,1,47,2022,21/11/2022,2022/2023,Wiltshire,FALSE
+211,"Pewsey, Wilts",1,45,2021,08/11/2021,2021/2022,Wiltshire,FALSE
+915,Wiltshire,2,42,2022,17/10/2022,2022/2023,Wiltshire,TRUE
+964,Wiltshire,3,44,2022,31/10/2022,2022/2023,Wiltshire,TRUE
+414,Wirral,2,1,2022,03/01/2022,2021/2022,Wirral,TRUE
+436,Wirral,1,2,2022,10/01/2022,2021/2022,Wirral,TRUE
+470,Wirral,1,4,2022,24/01/2022,2021/2022,Wirral,TRUE
+488,Wirral,1,5,2022,31/01/2022,2021/2022,Wirral,TRUE
+543,Wirral,1,8,2022,21/02/2022,2021/2022,Wirral,TRUE
+213,Wokingham Borough ,1,45,2021,08/11/2021,2021/2022,Wokingham,TRUE
+286,Wokingham,1,48,2021,29/11/2021,2021/2022,Wokingham,TRUE
+323,Wokingham,1,49,2021,06/12/2021,2021/2022,Wokingham,TRUE
+350,City of Wolverhampton Council,4,50,2021,13/12/2021,2021/2022,Wolverhampton,FALSE
+389,City of Wolverhampton Council,2,52,2021,27/12/2021,2021/2022,Wolverhampton,FALSE
+407,City of Wolverhampton Council,3,1,2022,03/01/2022,2021/2022,Wolverhampton,FALSE
+945,City of Wolverhampton,1,44,2022,31/10/2022,2022/2023,Wolverhampton,FALSE
+968,Bromsgrove,1,45,2022,07/11/2022,2022/2023,Worcestershire,FALSE
+916,Worcester City,3,42,2022,17/10/2022,2022/2023,Worcestershire,FALSE
+98,Worcestershire,5,50,2020,14/12/2020,2020/2021,Worcestershire,TRUE
+111,Worcestershire,6,50,2020,14/12/2020,2020/2021,Worcestershire,TRUE
+139,Worcestershire,1,51,2020,21/12/2020,2020/2021,Worcestershire,TRUE
+195,(Worcestershire),4,44,2021,01/11/2021,2021/2022,Worcestershire,TRUE
+214,Malvern Hills District Council,3,45,2021,08/11/2021,2021/2022,Worcestershire,FALSE
+632,Wychavon,3,14,2022,04/04/2022,2021/2022,Worcestershire,FALSE
+189,"(Wrexham, Wales)",5,43,2021,25/10/2021,2021/2022,Wrexham,FALSE
+992,City of York,4,46,2022,14/11/2022,2022/2023,York,FALSE
+1036,York,2,47,2022,21/11/2022,2022/2023,York,TRUE
